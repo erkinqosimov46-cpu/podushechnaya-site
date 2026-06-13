@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Подушечная — уютный ресторан в Ташкенте</title>
+<meta name="description" content="Подушечная — уютный семейный ресторан в Ташкенте. Завтраки весь день, паста с лососем, кофе, летняя веранда. ул. Осиё 17. Бронь столиков: +998 90 999 77 61.">
+<meta name="theme-color" content="#E89A3C">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Mulish:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FBF5EC;
+    --paper-2:#F4E9DA;
+    --ink:#34291F;
+    --ink-soft:#7A6857;
+    --honey:#E89A3C;
+    --honey-deep:#D17F22;
+    --blush:#E9B9A6;
+    --sage:#7E9466;
+    --card:#FFFDF9;
+    --shadow-sm:0 2px 6px rgba(124,92,64,.10);
+    --shadow:0 10px 30px rgba(124,92,64,.16);
+    --shadow-lg:0 24px 60px rgba(124,92,64,.20);
+    --radius:34px;
+    --radius-lg:48px;
+    --maxw:1140px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:'Mulish',system-ui,-apple-system,sans-serif;
+    background:var(--paper);
+    color:var(--ink);
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+  }
+  h1,h2,h3,.display{font-family:'Baloo 2',system-ui,sans-serif;line-height:1.08;letter-spacing:-.01em}
+  a{color:inherit;text-decoration:none}
+  img{max-width:100%;display:block}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+  .eyebrow{
+    font-weight:700;font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--honey-deep);display:inline-block;margin-bottom:14px;
+  }
+
+  /* demo banner */
+  .demo-banner{
+    background:var(--ink);color:#F6E8D6;text-align:center;
+    font-size:.82rem;padding:9px 16px;font-weight:600;letter-spacing:.01em;
+  }
+  .demo-banner span{color:var(--honey)}
+
+  /* nav */
+  header.nav{
+    position:sticky;top:0;z-index:50;
+    background:rgba(251,245,236,.82);backdrop-filter:blur(12px);
+    border-bottom:1px solid rgba(124,92,64,.10);
+  }
+  .nav-inner{display:flex;align-items:center;justify-content:space-between;height:74px}
+  .logo{display:flex;align-items:center;gap:11px;font-family:'Baloo 2',system-ui,sans-serif;font-weight:800;font-size:1.45rem}
+  .logo .dot{
+    width:34px;height:34px;border-radius:50% 50% 50% 14px;
+    background:linear-gradient(140deg,var(--honey),var(--blush));
+    box-shadow:var(--shadow-sm);flex:none;
+  }
+  .nav-links{display:flex;gap:30px;align-items:center}
+  .nav-links a{font-weight:600;color:var(--ink-soft);font-size:.96rem;transition:color .2s}
+  .nav-links a:hover{color:var(--ink)}
+  .btn{
+    display:inline-flex;align-items:center;gap:9px;
+    background:var(--honey);color:#fff;font-weight:700;font-family:'Mulish',system-ui,sans-serif;
+    padding:13px 26px;border-radius:100px;border:none;cursor:pointer;
+    font-size:.98rem;box-shadow:0 8px 20px rgba(232,154,60,.35);
+    transition:transform .2s, box-shadow .2s;
+  }
+  .btn:hover{transform:translateY(-2px);box-shadow:0 12px 26px rgba(232,154,60,.45)}
+  .btn.ghost{background:transparent;color:var(--ink);box-shadow:none;border:1.5px solid rgba(124,92,64,.25)}
+  .btn.ghost:hover{background:rgba(124,92,64,.06);transform:translateY(-2px)}
+  .nav .btn{padding:11px 22px}
+  @media(max-width:820px){.nav-links{display:none}}
+
+  /* hero */
+  .hero{position:relative;padding:70px 0 90px;overflow:hidden}
+  .blob{position:absolute;border-radius:50%;filter:blur(48px);opacity:.55;z-index:0}
+  .blob.b1{width:420px;height:420px;background:var(--blush);top:-120px;right:-80px}
+  .blob.b2{width:360px;height:360px;background:#F4D7A0;bottom:-140px;left:-120px;opacity:.5}
+  .blob.b3{width:240px;height:240px;background:var(--sage);top:120px;left:40%;opacity:.22}
+  .hero-grid{position:relative;z-index:2;display:grid;grid-template-columns:1.05fr .95fr;gap:50px;align-items:center}
+  .hero h1{font-size:clamp(2.8rem,6vw,4.8rem);font-weight:800;margin-bottom:20px;overflow-wrap:break-word}
+  .hero h1 .soft{color:var(--honey-deep)}
+  .hero p.lead{font-size:1.18rem;color:var(--ink-soft);max-width:30rem;margin-bottom:30px}
+  .hero-cta{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:34px}
+  .hero-stats{display:flex;gap:26px;flex-wrap:wrap}
+  .stat{display:flex;flex-direction:column}
+  .stat b{font-family:'Baloo 2',system-ui,sans-serif;font-size:1.6rem;font-weight:700;color:var(--ink)}
+  .stat span{font-size:.86rem;color:var(--ink-soft)}
+  .stat .stars{color:var(--honey);letter-spacing:2px}
+
+  /* hero plate visual */
+  .plate-wrap{position:relative;display:flex;justify-content:center}
+  .plate{
+    width:min(420px,90%);aspect-ratio:1;border-radius:50%;
+    background:radial-gradient(circle at 35% 30%,#fff,var(--paper-2));
+    box-shadow:var(--shadow-lg), inset 0 0 0 14px rgba(255,255,255,.6), inset 0 0 0 16px rgba(124,92,64,.06);
+    display:flex;align-items:center;justify-content:center;position:relative;
+  }
+  .plate-inner{text-align:center;padding:30px}
+  .plate-inner .big{font-family:'Baloo 2',system-ui,sans-serif;font-weight:800;font-size:2.4rem;color:var(--honey-deep);line-height:1}
+  .plate-inner .label{font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);margin-top:8px}
+  .float-chip{
+    position:absolute;background:var(--card);border-radius:22px;padding:12px 18px;
+    box-shadow:var(--shadow);font-weight:700;font-size:.92rem;display:flex;align-items:center;gap:9px;
+  }
+  .float-chip .ic{width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex:none}
+  .float-chip.c1{top:8%;left:-4%}
+  .float-chip.c2{bottom:14%;right:-6%}
+  .float-chip.c3{bottom:-3%;left:18%}
+  @media(max-width:860px){
+    .hero-grid{grid-template-columns:1fr;gap:36px}
+    .plate-wrap{order:-1}
+  }
+
+  /* sections */
+  section{padding:84px 0}
+  .section-head{max-width:38rem;margin-bottom:48px}
+  .section-head h2{font-size:clamp(2rem,4vw,2.9rem);font-weight:700;margin-bottom:14px}
+  .section-head p{color:var(--ink-soft);font-size:1.08rem}
+
+  /* about */
+  .about{background:var(--paper-2)}
+  .about-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  .soft-card{
+    background:var(--card);border-radius:var(--radius);padding:32px;
+    box-shadow:var(--shadow-sm);transition:transform .3s, box-shadow .3s;
+  }
+  .soft-card:hover{transform:translateY(-6px);box-shadow:var(--shadow)}
+  .soft-card .ic-lg{
+    width:58px;height:58px;border-radius:20px 20px 20px 8px;display:flex;align-items:center;justify-content:center;
+    margin-bottom:18px;
+  }
+  .soft-card h3{font-size:1.25rem;font-weight:700;margin-bottom:8px}
+  .soft-card p{color:var(--ink-soft);font-size:.97rem}
+  @media(max-width:760px){.about-grid{grid-template-columns:1fr}}
+
+  /* menu */
+  .menu-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+  .dish{
+    background:var(--card);border-radius:var(--radius);padding:0;overflow:hidden;
+    box-shadow:var(--shadow-sm);transition:transform .3s, box-shadow .3s;display:flex;flex-direction:column;
+  }
+  .dish:hover{transform:translateY(-7px);box-shadow:var(--shadow-lg)}
+  .dish-top{height:150px;display:flex;align-items:center;justify-content:center;position:relative}
+  .dish-top .glyph{width:84px;height:84px;border-radius:50% 50% 46% 54%;display:flex;align-items:center;justify-content:center;box-shadow:var(--shadow-sm)}
+  .dish-body{padding:24px 26px 28px}
+  .dish-body .row{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+  .dish-body h3{font-size:1.18rem;font-weight:700}
+  .dish-body .price{font-family:'Baloo 2',system-ui,sans-serif;font-weight:700;color:var(--honey-deep);white-space:nowrap}
+  .dish-body p{color:var(--ink-soft);font-size:.92rem;margin-top:7px}
+  .tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--sage);margin-top:14px}
+  @media(max-width:860px){.menu-grid{grid-template-columns:1fr 1fr}}
+  @media(max-width:560px){.menu-grid{grid-template-columns:1fr}}
+
+  /* features strip */
+  .features{background:linear-gradient(160deg,#fff6ea,var(--paper-2))}
+  .chips{display:flex;flex-wrap:wrap;gap:14px;justify-content:center}
+  .chip{
+    background:var(--card);border-radius:100px;padding:14px 22px;font-weight:600;
+    box-shadow:var(--shadow-sm);display:flex;align-items:center;gap:10px;font-size:.96rem;
+  }
+  .chip .d{width:9px;height:9px;border-radius:50%;background:var(--honey)}
+  .chip:nth-child(3n) .d{background:var(--sage)}
+  .chip:nth-child(3n+1) .d{background:var(--blush)}
+
+  /* reviews */
+  .rev-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  .review{background:var(--card);border-radius:var(--radius);padding:30px;box-shadow:var(--shadow-sm);position:relative}
+  .review .stars{color:var(--honey);letter-spacing:2px;margin-bottom:12px}
+  .review p{font-size:1rem;color:var(--ink);margin-bottom:18px}
+  .review .who{display:flex;align-items:center;gap:12px}
+  .review .av{width:40px;height:40px;border-radius:50%;background:linear-gradient(140deg,var(--blush),var(--honey));flex:none}
+  .review .who b{font-size:.95rem}
+  .review .who span{font-size:.82rem;color:var(--ink-soft);display:block}
+  @media(max-width:860px){.rev-grid{grid-template-columns:1fr}}
+
+  /* visit / cta */
+  .visit{background:var(--ink);color:#F6ECDE}
+  .visit .eyebrow{color:var(--honey)}
+  .visit-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+  .visit h2{color:#fff;font-size:clamp(2rem,4vw,2.8rem);margin-bottom:18px}
+  .visit-info{list-style:none;display:flex;flex-direction:column;gap:18px;margin:26px 0}
+  .visit-info li{display:flex;gap:14px;align-items:flex-start}
+  .visit-info .ic{width:40px;height:40px;border-radius:14px;background:rgba(255,255,255,.08);display:flex;align-items:center;justify-content:center;flex:none}
+  .visit-info b{display:block;font-size:1.02rem;color:#fff}
+  .visit-info span{font-size:.92rem;color:#C9B9A6}
+  .map-card{
+    background:linear-gradient(150deg,#3f3225,#2a2017);border-radius:var(--radius-lg);
+    padding:40px;min-height:300px;display:flex;flex-direction:column;justify-content:center;align-items:center;
+    text-align:center;border:1px solid rgba(255,255,255,.08);
+  }
+  .map-pin{width:70px;height:70px;border-radius:50% 50% 50% 8px;background:linear-gradient(140deg,var(--honey),var(--blush));
+    display:flex;align-items:center;justify-content:center;margin-bottom:20px;box-shadow:var(--shadow);transform:rotate(-8deg)}
+  .map-card h3{color:#fff;font-size:1.4rem;margin-bottom:6px}
+  .map-card p{color:#C9B9A6;margin-bottom:22px}
+  @media(max-width:760px){.visit-grid{grid-template-columns:1fr;gap:32px}}
+
+  /* footer */
+  footer{background:var(--paper-2);padding:50px 0 36px;text-align:center}
+  .foot-logo{display:inline-flex;align-items:center;gap:11px;font-family:'Baloo 2',system-ui,sans-serif;font-weight:800;font-size:1.4rem;margin-bottom:16px}
+  .socials{display:flex;gap:14px;justify-content:center;margin:20px 0}
+  .socials a{width:44px;height:44px;border-radius:50%;background:var(--card);box-shadow:var(--shadow-sm);
+    display:flex;align-items:center;justify-content:center;transition:transform .2s}
+  .socials a:hover{transform:translateY(-3px)}
+  .foot-note{font-size:.85rem;color:var(--ink-soft);margin-top:10px}
+
+  svg{display:block}
+
+  /* reveal animation */
+  .reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease, transform .7s ease}
+  .reveal.in{opacity:1;transform:none}
+  @media(prefers-reduced-motion:reduce){
+    .reveal{opacity:1;transform:none;transition:none}
+    html{scroll-behavior:auto}
+  }
+  :focus-visible{outline:3px solid var(--honey);outline-offset:3px;border-radius:6px}
+
+  /* keep the booking button tidy on small screens */
+  .nav .btn{white-space:nowrap}
+
+  /* narrow phones — keep nothing overflowing at ~360px */
+  @media(max-width:480px){
+    .wrap{padding:0 18px}
+    section{padding:60px 0}
+    .hero{padding:48px 0 64px}
+    .hero h1{font-size:clamp(2.3rem,8vw,2.9rem)}
+    .hero p.lead{font-size:1.06rem}
+    .section-head{margin-bottom:34px}
+    .hero-cta{gap:10px}
+    .hero-cta .btn{width:100%;justify-content:center}
+    .hero-stats{gap:18px}
+    /* pull floating chips inside the viewport so they don't get clipped */
+    .float-chip{font-size:.82rem;padding:9px 13px}
+    .float-chip.c1{left:0}
+    .float-chip.c2{right:0}
+    .float-chip.c3{left:6%}
+    .soft-card{padding:26px}
+    .map-card{padding:30px 22px}
+    .review{padding:26px}
+  }
+  @media(max-width:360px){
+    .nav-inner{height:64px}
+    .logo{font-size:1.26rem}
+    .logo .dot{width:30px;height:30px}
+    .nav .btn{padding:10px 15px;font-size:.88rem}
+  }
+</style>
+</head>
+<body>
+
+<div class="demo-banner">Демо-версия сайта · текст, блюда и цены — черновик, заполним вашими настоящими данными и фото · <span>сделано для «Подушечной»</span></div>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a href="#top" class="logo"><span class="dot"></span>Подушечная</a>
+    <nav class="nav-links">
+      <a href="#about">О нас</a>
+      <a href="#menu">Меню</a>
+      <a href="#features">Возможности</a>
+      <a href="#visit">Как добраться</a>
+    </nav>
+    <a href="tel:+998909997761" class="btn">Забронировать стол</a>
+  </div>
+</header>
+
+<a id="top"></a>
+<section class="hero">
+  <div class="blob b1"></div>
+  <div class="blob b2"></div>
+  <div class="blob b3"></div>
+  <div class="wrap hero-grid">
+    <div class="reveal">
+      <span class="eyebrow">Уютный семейный ресторан · Ташкент</span>
+      <h1>Здесь <span class="soft">тепло</span>,<br>вкусно и по-домашнему</h1>
+      <p class="lead">Завтраки до самого вечера, паста с лососем, копчёная форель и лучший флэт-уайт в районе. Заходите всей семьёй — у нас есть детский уголок и летняя веранда.</p>
+      <div class="hero-cta">
+        <a href="#menu" class="btn">Посмотреть меню</a>
+        <a href="tel:+998909997761" class="btn ghost">Позвонить · +998 90 999 77 61</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><b>4.6 <span class="stars">★</span></b><span>≈400 отзывов на Google</span></div>
+        <div class="stat"><b>09:00–24:00</b><span>каждый день</span></div>
+        <div class="stat"><b>100 мест</b><span>два зала + веранда</span></div>
+      </div>
+    </div>
+    <div class="plate-wrap reveal">
+      <div class="plate">
+        <div class="plate-inner">
+          <div class="big">Завтраки<br>09:00–17:00</div>
+          <div class="label">с любовью каждый день</div>
+        </div>
+      </div>
+      <div class="float-chip c1"><span class="ic" style="background:#FBE3CB">🥐</span> Свежая выпечка</div>
+      <div class="float-chip c2"><span class="ic" style="background:#E4EAD3">🥗</span> Сезонные салаты</div>
+      <div class="float-chip c3"><span class="ic" style="background:#F6DAD0">☕</span> Кофе с собой</div>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="about">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <span class="eyebrow">О нас</span>
+      <h2>Место, куда хочется возвращаться</h2>
+      <p>«Подушечная» — это про мягкий свет, удобные диваны и кухню, которой кормят как дома. Европейская и домашняя классика, приготовленная просто и честно.</p>
+    </div>
+    <div class="about-grid">
+      <div class="soft-card reveal">
+        <div class="ic-lg" style="background:#FBE3CB">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#D17F22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+        </div>
+        <h3>Завтраки весь день</h3>
+        <p>Сырники, яйца по-разному, форель, авокадо и ароматный кофе — с 9 утра до 5 вечера.</p>
+      </div>
+      <div class="soft-card reveal">
+        <div class="ic-lg" style="background:#E4EAD3">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#7E9466" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11a3 3 0 1 0 6 0 3 3 0 0 0-6 0z"/><path d="M17.8 19.8A9 9 0 1 0 6.2 19.8"/><circle cx="12" cy="12" r="10"/></svg>
+        </div>
+        <h3>Для всей семьи</h3>
+        <p>Детский уголок, детское меню и просторные залы — комфортно и взрослым, и малышам.</p>
+      </div>
+      <div class="soft-card reveal">
+        <div class="ic-lg" style="background:#F6DAD0">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#C26B52" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7.4-6.3-4.6L5.7 21 8 14 2 9.4h7.6z"/></svg>
+        </div>
+        <h3>Летняя веранда</h3>
+        <p>Тёплыми вечерами — столики на улице, банкеты до 100 гостей и тихая, уютная атмосфера.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="menu">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <span class="eyebrow">Меню</span>
+      <h2>Что заказывают чаще всего</h2>
+      <p>Любимые блюда наших гостей. Полное меню с фотографиями добавим на ваш сайт — это лишь несколько хитов.</p>
+    </div>
+    <div class="menu-grid">
+      <div class="dish reveal">
+        <div class="dish-top" style="background:#FBE9D6"><div class="glyph" style="background:#F6D2A8">🍝</div></div>
+        <div class="dish-body">
+          <div class="row"><h3>Паста с лососем</h3><span class="price">65 000</span></div>
+          <p>Сливочный соус, нежный лосось, свежая зелень. Тот самый хит, о котором пишут в отзывах.</p>
+          <span class="tag">Хит гостей</span>
+        </div>
+      </div>
+      <div class="dish reveal">
+        <div class="dish-top" style="background:#E7EFDA"><div class="glyph" style="background:#CFE0B4">🐟</div></div>
+        <div class="dish-body">
+          <div class="row"><h3>Завтрак с форелью</h3><span class="price">58 000</span></div>
+          <p>Слабосолёная форель, шпинат, авокадо и яйцо — свежо и сытно с самого утра.</p>
+          <span class="tag">Завтраки</span>
+        </div>
+      </div>
+      <div class="dish reveal">
+        <div class="dish-top" style="background:#F3DFD6"><div class="glyph" style="background:#E9C3B2">☕</div></div>
+        <div class="dish-body">
+          <div class="row"><h3>Флэт-уайт</h3><span class="price">28 000</span></div>
+          <p>На выбор светлая или тёмная обжарка. Мягкий, бархатистый — под утреннюю газету.</p>
+          <span class="tag">Кофе</span>
+        </div>
+      </div>
+      <div class="dish reveal">
+        <div class="dish-top" style="background:#FBE9D6"><div class="glyph" style="background:#F6D2A8">🍕</div></div>
+        <div class="dish-body">
+          <div class="row"><h3>Пицца на тонком тесте</h3><span class="price">62 000</span></div>
+          <p>Хрустящий край, щедрая начинка. Идеально, чтобы разделить на компанию.</p>
+          <span class="tag">Горячее</span>
+        </div>
+      </div>
+      <div class="dish reveal">
+        <div class="dish-top" style="background:#E7EFDA"><div class="glyph" style="background:#CFE0B4">🥗</div></div>
+        <div class="dish-body">
+          <div class="row"><h3>Сезонный салат</h3><span class="price">42 000</span></div>
+          <p>Свежие овощи, зелень и лёгкая заправка. Меняем состав по сезону.</p>
+          <span class="tag">Лёгкое</span>
+        </div>
+      </div>
+      <div class="dish reveal">
+        <div class="dish-top" style="background:#F3DFD6"><div class="glyph" style="background:#E9C3B2">🍰</div></div>
+        <div class="dish-body">
+          <div class="row"><h3>Десерт дня</h3><span class="price">35 000</span></div>
+          <p>Домашняя выпечка к кофе — спросите у официанта, что сегодня свежее.</p>
+          <span class="tag">Сладкое</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="features" class="features">
+  <div class="wrap">
+    <div class="section-head reveal" style="margin:0 auto 40px;text-align:center">
+      <span class="eyebrow">Всё для гостей</span>
+      <h2>Удобно в любой день</h2>
+    </div>
+    <div class="chips reveal">
+      <div class="chip"><span class="d"></span>Доставка и навынос</div>
+      <div class="chip"><span class="d"></span>Wi-Fi для гостей</div>
+      <div class="chip"><span class="d"></span>Халяльные блюда</div>
+      <div class="chip"><span class="d"></span>Детский уголок</div>
+      <div class="chip"><span class="d"></span>Банкеты и праздники</div>
+      <div class="chip"><span class="d"></span>Меню на английском</div>
+      <div class="chip"><span class="d"></span>Бронь столиков</div>
+      <div class="chip"><span class="d"></span>Кофе и чай с собой</div>
+      <div class="chip"><span class="d"></span>Летняя терраса</div>
+    </div>
+  </div>
+</section>
+
+<section id="reviews">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <span class="eyebrow">Отзывы</span>
+      <h2>Что говорят гости</h2>
+      <p>По мотивам реальных отзывов с Google — рейтинг 4.6 из 5.</p>
+    </div>
+    <div class="rev-grid">
+      <div class="review reveal">
+        <div class="stars">★★★★★</div>
+        <p>Уютно и чисто, обслуживают быстро и приветливо. Есть детский уголок и много мест в двух залах, цены адекватные.</p>
+        <div class="who"><span class="av"></span><div><b>Гость Google</b><span>семейный визит</span></div></div>
+      </div>
+      <div class="review reveal">
+        <div class="stars">★★★★★</div>
+        <p>Меню разнообразное — от крылышек до пасты с лососем. Блюда приносят с правильными паузами, официант внимательный. Паста с лососем — звезда вечера.</p>
+        <div class="who"><span class="av"></span><div><b>Гость Google</b><span>ужин с друзьями</span></div></div>
+      </div>
+      <div class="review reveal">
+        <div class="stars">★★★★★</div>
+        <p>Моё любимое место для завтрака в Ташкенте. Отличная форель, свежие продукты, большие окна и много света. Прекрасный флэт-уайт.</p>
+        <div class="who"><span class="av"></span><div><b>Гость Google</b><span>завтрак</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="visit" class="visit">
+  <div class="wrap visit-grid">
+    <div class="reveal">
+      <span class="eyebrow">Как добраться</span>
+      <h2>Ждём вас в гости</h2>
+      <ul class="visit-info">
+        <li><span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E89A3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span><div><b>ул. Осиё, 17</b><span>Мирзо-Улугбекский район, Ташкент</span></div></li>
+        <li><span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E89A3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span><div><b>09:00 – 24:00</b><span>ежедневно · завтраки до 17:00</span></div></li>
+        <li><span class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#E89A3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.81.36 1.6.7 2.34a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.74-1.27a2 2 0 0 1 2.11-.45c.74.34 1.53.57 2.34.7A2 2 0 0 1 22 16.92z"/></svg></span><div><b>+998 90 999 77 61</b><span>бронь столиков и доставка</span></div></li>
+      </ul>
+      <a href="tel:+998909997761" class="btn">Забронировать стол</a>
+    </div>
+    <div class="map-card reveal">
+      <div class="map-pin"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+      <h3>ул. Осиё, 17</h3>
+      <p>Мирзо-Улугбекский район, Ташкент</p>
+      <a href="https://www.google.com/maps/dir/?api=1&destination=41.325305,69.302110" target="_blank" rel="noopener" class="btn">Построить маршрут</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-logo"><span class="dot" style="width:30px;height:30px;border-radius:50% 50% 50% 12px;background:linear-gradient(140deg,var(--honey),var(--blush));display:inline-block"></span>Подушечная</div>
+    <p class="foot-note">Уютный семейный ресторан · ул. Осиё 17, Ташкент · +998 90 999 77 61</p>
+    <div class="socials">
+      <a href="#" aria-label="Instagram"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#34291F" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="6"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="#34291F" stroke="none"/></svg></a>
+      <a href="#" aria-label="Telegram"><svg width="20" height="20" viewBox="0 0 24 24" fill="#34291F"><path d="M21.9 4.3c-.2-.2-.5-.3-.8-.2L3 11.3c-.6.2-.6 1 0 1.2l4.6 1.5 1.8 5.6c.1.4.6.5.9.2l2.6-2.5 4.5 3.3c.3.2.8.1.9-.3L22 5c.1-.3 0-.6-.1-.7zM9.6 14.3l8-5.7-6.6 6.2-.1 3z"/></svg></a>
+      <a href="#" aria-label="WhatsApp"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#34291F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.4 8.4 0 0 1-12.3 7.4L3 21l2.2-5.6A8.4 8.4 0 1 1 21 11.5z"/></svg></a>
+    </div>
+    <p class="foot-note">Демо-сайт · разработка сайтов и Telegram-ботов для заведений Ташкента</p>
+  </div>
+</footer>
+
+<script>
+  // gentle scroll reveal
+  const els=document.querySelectorAll('.reveal');
+  if('IntersectionObserver' in window){
+    const io=new IntersectionObserver((entries)=>{
+      entries.forEach((e,i)=>{
+        if(e.isIntersecting){
+          e.target.style.transitionDelay=(Math.min(i,3)*60)+'ms';
+          e.target.classList.add('in');
+          io.unobserve(e.target);
+        }
+      });
+    },{threshold:.12,rootMargin:'0px 0px -40px 0px'});
+    els.forEach(el=>io.observe(el));
+  }else{
+    els.forEach(el=>el.classList.add('in'));
+  }
+</script>
+</body>
+</html>

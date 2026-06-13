@@ -1,0 +1,13 @@
+# OS / редакторы — мусорные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
+
+# Vercel (служебная папка, не нужна в репозитории)
+.vercel/
+
+# Node (на случай, если появится)
+node_modules/
