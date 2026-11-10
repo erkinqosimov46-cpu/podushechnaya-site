@@ -1,0 +1,74 @@
+{
+ "slug": "zru-578",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/4575788",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-578-сон 01.11.2019. О платежах и платежных системах",
+   "edition": "2026-07-25",
+   "editions": [
+    "2020-02-03",
+    "2021-04-21",
+    "2021-10-12",
+    "2022-04-21",
+    "2024-02-07",
+    "2024-12-22",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 4575786,
+    "uzLatn": -4575786
+   },
+   "counts": {
+    "headers": 12,
+    "clauses": 63,
+    "paragraphs": 511,
+    "chars": 178024
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 1,
+   "sha256": "5f6eff390b25d3aa0619bfdd5db34a83f06bbb96ff2074fadb1ea02e498ebb17"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/4575786",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-578-сон 01.11.2019. Тўловлар ва тўлов тизимлари тўғрисида",
+   "edition": "2026-07-25",
+   "editions": [
+    "2020-02-03",
+    "2021-04-21",
+    "2021-10-12",
+    "2022-04-21",
+    "2024-02-07",
+    "2024-12-22",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 4575788,
+    "uzLatn": -4575786
+   },
+   "counts": {
+    "headers": 12,
+    "clauses": 63,
+    "paragraphs": 511,
+    "chars": 185522
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "112b159155b23e8e61bb4e7a4d96122108f5e88aff45e501025d9f9a3bbf9fca"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.96
+}

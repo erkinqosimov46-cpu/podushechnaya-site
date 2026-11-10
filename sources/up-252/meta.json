@@ -1,0 +1,76 @@
+{
+ "slug": "up-252",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/7926728",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "УП-252-сон 18.12.2025. О дополнительных мерах дальнейшего совершенствования деятельности по государственному аудиту и финансовому контролю",
+   "edition": "2026-07-06",
+   "editions": [
+    "2021-08-28",
+    "2024-07-12",
+    "2024-10-28",
+    "2025-06-23",
+    "2025-07-28",
+    "2025-11-05",
+    "2025-12-19",
+    "2026-07-06"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 7926706,
+    "uzLatn": -7926706
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 99,
+    "chars": 31270
+   },
+   "cyrillicShare": 0.987,
+   "unofficialNotes": 1,
+   "sha256": "166757daaeb9dfe6e2dcd6e9528c5b6ef38e4cd9aaed19e6bd4bb97e0d677d27"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/7926706",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ПФ-252-сон 18.12.2025. Давлат аудити ва молиявий назорати фаолиятини янада такомиллаштиришга доир қўшимча чора-тадбирлар тўғрисида",
+   "edition": "2026-07-06",
+   "editions": [
+    "2021-08-28",
+    "2024-07-12",
+    "2024-10-28",
+    "2025-06-23",
+    "2025-07-28",
+    "2025-11-05",
+    "2025-12-19",
+    "2026-07-06"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 7926728,
+    "uzLatn": -7926706
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 136,
+    "chars": 69014
+   },
+   "cyrillicShare": 0.989,
+   "unofficialNotes": 0,
+   "sha256": "f89d14d7f5587b3443c8b56f4f69c2b54fa00852a4e72f070e8c06bc82f310e0"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "partial",
+ "ruToUzSize": 0.45
+}

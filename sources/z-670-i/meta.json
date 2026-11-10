@@ -1,0 +1,89 @@
+{
+ "slug": "z-670-i",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/10872",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "670-I-сон 29.08.1998. О договорно-правовой базе деятельности хозяйствующих субъектов",
+   "edition": "2026-06-12",
+   "editions": [
+    "1998-11-01",
+    "2011-12-22",
+    "2014-05-15",
+    "2015-08-21",
+    "2017-09-15",
+    "2018-04-01",
+    "2019-01-09",
+    "2020-03-11",
+    "2021-04-21",
+    "2022-08-04",
+    "2024-02-22",
+    "2025-12-26",
+    "2025-12-30",
+    "2026-06-12"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 18942,
+    "uzLatn": -18942
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 36,
+    "paragraphs": 113,
+    "chars": 56649
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 7,
+   "sha256": "0adf81165a61fc49ce13987abe5df39014653a2cc2e6a1fb874f2b62eaab272f"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/18942",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "670-I-сон 29.08.1998. Хўжалик юритувчи субъектлар фаолиятининг шартномавий-ҳуқуқий базаси тўғрисида",
+   "edition": "2026-06-12",
+   "editions": [
+    "1998-11-01",
+    "2007-08-02",
+    "2011-12-22",
+    "2014-05-15",
+    "2015-08-21",
+    "2017-09-15",
+    "2018-04-01",
+    "2019-01-09",
+    "2020-03-11",
+    "2021-04-21",
+    "2022-08-04",
+    "2024-02-22",
+    "2025-12-26",
+    "2025-12-30",
+    "2026-06-12"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 10872,
+    "uzLatn": -18942
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 36,
+    "paragraphs": 113,
+    "chars": 65413
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "df69e8eb1ccdeec3bcac514e517ed55231a8eb3d1de71b6bf18503a4814bfb24"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.87
+}

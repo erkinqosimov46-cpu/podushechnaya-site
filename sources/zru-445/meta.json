@@ -1,0 +1,74 @@
+{
+ "slug": "zru-445",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/3336171",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-445-сон 11.09.2017. О внесении изменений и дополнений в Закон Республики Узбекистан «Об обращениях физических и юридических лиц»",
+   "edition": "2026-10-15",
+   "editions": [
+    "2017-09-12",
+    "2018-04-01",
+    "2020-03-11",
+    "2021-04-21",
+    "2024-09-21",
+    "2026-05-07",
+    "2026-10-15"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 3336169,
+    "uzLatn": -3336169
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 39,
+    "paragraphs": 194,
+    "chars": 77762
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 2,
+   "sha256": "f0c38a2da0fb111638d6db85652afaaf867bc82ec0df1ec15f32c0e389d9f04c"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/3336169",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-445-сон 11.09.2017. «Жисмоний ва юридик шахсларнинг мурожаатлари тўғрисида»ги Ўзбекистон Республикаси Қонунига ўзгартиш ва қўшимчалар киритиш ҳақида",
+   "edition": "2026-10-15",
+   "editions": [
+    "2017-09-12",
+    "2018-04-01",
+    "2020-03-11",
+    "2021-04-21",
+    "2024-09-21",
+    "2026-05-07",
+    "2026-10-15"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 3336171,
+    "uzLatn": -3336169
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 39,
+    "paragraphs": 194,
+    "chars": 86464
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "3552850953127395699c84a9331ed91e8793efd93fde038f9c42d9b951298a2f"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.9
+}

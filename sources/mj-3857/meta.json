@@ -1,0 +1,61 @@
+{
+ "slug": "mj-3857",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/8281814",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3857-сон 18.06.2026. Об утверждении стандарта бюджетного учета Республики Узбекистан (СБУ № 19) «Доходы»",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": -8277785,
+    "uzLatn": 8277785
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1546
+   },
+   "cyrillicShare": 0.96,
+   "unofficialNotes": 0,
+   "sha256": "92cba6c50cc09f24a9f2d0eb1f28203bec35bbcba48ff10906190d7ebf2a364c"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/-8277785",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3857-сон 18.06.2026. Ўзбекистон Республикаси бюджет ҳисобининг стандарти (19-сонли БҲС) «Даромад»ни тасдиқлаш ҳақида",
+   "edition": null,
+   "editions": [
+    "2021-07-28",
+    "2023-08-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 8281814,
+    "uzLatn": 8277785
+   },
+   "counts": {
+    "headers": 75,
+    "clauses": 0,
+    "paragraphs": 515,
+    "chars": 173560
+   },
+   "cyrillicShare": 1,
+   "unofficialNotes": 0,
+   "sha256": "38ee18bee0f31fc56df7425b12ca726ff6f55e1e8ca38b43115a26615267ef17"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.01
+}

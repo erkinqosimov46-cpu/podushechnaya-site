@@ -1,0 +1,72 @@
+{
+ "slug": "zru-404",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/2931251",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-404-сон 13.04.2016. О внесении изменений и дополнений в Закон Республики Узбекистан «О бухгалтерском учете»",
+   "edition": "2026-07-25",
+   "editions": [
+    "2016-04-14",
+    "2020-12-31",
+    "2021-04-21",
+    "2021-10-30",
+    "2023-11-29",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 2931253,
+    "uzLatn": -2931253
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 32,
+    "paragraphs": 141,
+    "chars": 58467
+   },
+   "cyrillicShare": 0.994,
+   "unofficialNotes": 1,
+   "sha256": "53cfea2f529d65c56ac67685fca9aa31c9571769c520d12ac053894756207493"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/2931253",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-404-сон 13.04.2016. «Бухгалтерия ҳисоби тўғрисида»ги Ўзбекистон Республикаси Қонунига ўзгартиш ва қўшимчалар киритиш ҳақида",
+   "edition": "2026-07-25",
+   "editions": [
+    "2016-04-14",
+    "2020-12-31",
+    "2021-04-21",
+    "2021-10-30",
+    "2023-11-29",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 2931251,
+    "uzLatn": -2931253
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 32,
+    "paragraphs": 141,
+    "chars": 61839
+   },
+   "cyrillicShare": 0.994,
+   "unofficialNotes": 0,
+   "sha256": "41105566495e84513206e7c1b2240416346b54be844173609e8836461e1c37c4"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.95
+}

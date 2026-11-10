@@ -1,0 +1,75 @@
+{
+ "slug": "pkm-573",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/5009175",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "573-сон 21.09.2020. Об организации деятельности Гарантийного фонда по обслуживанию государственного долга Комитет казначейской службы при Министерства экономики и финансов Республики Узбекистан",
+   "edition": "2023-10-24",
+   "editions": [
+    "2020-09-22",
+    "2021-08-12",
+    "2021-12-30",
+    "2022-02-08",
+    "2022-04-05",
+    "2023-10-24"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 5008632,
+    "uzLatn": -5008632
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1457
+   },
+   "cyrillicShare": 0.958,
+   "unofficialNotes": 0,
+   "sha256": "bf1b0ac20c0fe93e6c2b9a9b9691a09a9c55adcafa7f5ff4109686804f2ea1c5"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/5008632",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "573-сон 21.09.2020. Ўзбекистон Республикаси Иқтисодиёт ва молия вазирлиги ҳузуридаги Ғазначилик хизмати қўмитасининг Давлат қарзига хизмат кўрсатиш бўйича кафолат жамғармаси фаолиятини ташкил этиш тўғрисида",
+   "edition": "2023-10-24",
+   "editions": [
+    "2004-01-08",
+    "2015-07-20",
+    "2018-02-09",
+    "2020-09-22",
+    "2021-08-12",
+    "2021-12-30",
+    "2022-02-08",
+    "2022-04-05",
+    "2023-10-24"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 5009175,
+    "uzLatn": -5008632
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 0,
+    "paragraphs": 76,
+    "chars": 33688
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "b4d61a4139af0b633e05f912c75febc951b96fa75487e1cfe0de5eeca4d75ca5"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.04
+}

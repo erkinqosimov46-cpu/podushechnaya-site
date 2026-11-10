@@ -1,0 +1,58 @@
+{
+ "slug": "pkm-279",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/7506943",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "279-сон 29.04.2025. О мерах по эффективной организации системы управления рисками в сфере государственных финансов",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 7503919,
+    "uzLatn": -7503919
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1378
+   },
+   "cyrillicShare": 0.956,
+   "unofficialNotes": 0,
+   "sha256": "e684edd16bc281ab26bf2484f37f447f615b855cebd73881da6521ebbd95decf"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/7503919",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "279-сон 29.04.2025. Давлат молияси соҳасида хавфларни бошқариш тизимини самарали ташкил этиш чора-тадбирлари тўғрисида",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 7506943,
+    "uzLatn": -7503919
+   },
+   "counts": {
+    "headers": 19,
+    "clauses": 0,
+    "paragraphs": 257,
+    "chars": 65476
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "32cb32b3e0431ad0347f5cc20a7420b84491c2d214a39ce9f263cbbc03180902"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.02
+}

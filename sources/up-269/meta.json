@@ -1,0 +1,84 @@
+{
+ "slug": "up-269",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6324798",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "УП-269-сон 21.12.2022. О мерах по реализации административных реформ Нового Узбекистана",
+   "edition": "2026-02-03",
+   "editions": [
+    "2022-12-24",
+    "2023-04-24",
+    "2023-05-19",
+    "2023-06-02",
+    "2023-06-16",
+    "2023-12-29",
+    "2024-01-22",
+    "2024-08-23",
+    "2024-10-24",
+    "2024-10-25",
+    "2025-03-21",
+    "2026-02-03"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6324756,
+    "uzLatn": -6324756
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 100,
+    "chars": 45745
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 1,
+   "sha256": "d2268cbbfc1e4672977ddf91e5ab7dba4e4a6bcca708ca81e4208dc97b1065d9"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6324756",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ПФ-269-сон 21.12.2022. Янги Ўзбекистон маъмурий ислоҳотларини амалга ошириш чора-тадбирлари тўғрисида",
+   "edition": "2026-02-03",
+   "editions": [
+    "2022-12-24",
+    "2023-04-24",
+    "2023-05-19",
+    "2023-06-02",
+    "2023-06-16",
+    "2023-12-29",
+    "2024-01-22",
+    "2024-08-23",
+    "2024-10-24",
+    "2024-10-25",
+    "2025-03-21",
+    "2026-02-03"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6324798,
+    "uzLatn": -6324756
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 100,
+    "chars": 44147
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "9a6f74fb3314b099c599d445079530e31f2647f71b0eab83a3feed025bb02cfd"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.04
+}

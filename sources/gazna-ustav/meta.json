@@ -1,0 +1,56 @@
+{
+ "slug": "gazna-ustav",
+ "source": "gov.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "nizom.ru": {
+   "url": "https://gov.uz/ru/gazna/pages/g-aznachilikning-faoliyati-to-g-risidagi-nizomi",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "Устав о деятельности Казначейства",
+   "counts": {
+    "chars": 6700
+   },
+   "cyrillicShare": 0.983,
+   "updated": "2026-05-22 09:23:44",
+   "sha256": "dcb50380c88dd3a739bb91787e5ff647714e7ec604d58b73975b30b331eaf5a8"
+  },
+  "nizom.uz": {
+   "url": "https://gov.uz/oz/gazna/pages/g-aznachilikning-faoliyati-to-g-risidagi-nizomi",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "G&#x27;aznachilikning faoliyati to&#x27;g&#x27;risidagi nizomi",
+   "counts": {
+    "chars": 7507
+   },
+   "cyrillicShare": 0.015,
+   "updated": "2026-05-22 09:23:44",
+   "sha256": "6c4f501b0294e64016bd80cef706433ce9538cbeba5c0c7316fdbaaf9d88c53c"
+  },
+  "vazifalar.ru": {
+   "url": "https://gov.uz/ru/gazna/pages/g-aznachilikning-vazifalari-va-funksiyalari",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "Обязанности и функции Казначейства",
+   "counts": {
+    "chars": 13223
+   },
+   "cyrillicShare": 1,
+   "updated": "2026-05-22 09:25:00",
+   "sha256": "66e40a83c74a8919d04ae8c6efba154d7ccbba39b76ff410a531c68a73cd28f1"
+  },
+  "vazifalar.uz": {
+   "url": "https://gov.uz/oz/gazna/pages/g-aznachilikning-vazifalari-va-funksiyalari",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "G&#x27;aznachilikning vazifalari va funksiyalari",
+   "counts": {
+    "chars": 14456
+   },
+   "cyrillicShare": 0,
+   "updated": "2026-05-22 09:25:00",
+   "sha256": "5a4805927c4d75f9a909632ccebbbad25b34fb9d2510a25b4533daa60bab3671"
+  }
+ },
+ "problems": []
+}

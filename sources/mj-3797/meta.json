@@ -1,0 +1,58 @@
+{
+ "slug": "mj-3797",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/8108340",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3797-сон 27.03.2026. Об утверждении стандарта бюджетного учета Республики Узбекистан (СБУ № 1) «Учетная политика, изменения в расчетных оценках и ошибки»",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 8107961,
+    "uzLatn": -8107961
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1580
+   },
+   "cyrillicShare": 0.961,
+   "unofficialNotes": 0,
+   "sha256": "382175caf675ad6ae9874d1dfb1a3c62981d870ab4540fea9d5a25638f5c2ec4"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/8107961",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3797-сон 27.03.2026. Ўзбекистон Республикаси бюджет ҳисобининг стандарти (1-сонли БҲС) «Ҳисоб сиёсати, ҳисоб баҳоларидаги ўзгаришлар ва хатолар»ни тасдиқлаш ҳақида",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 8108340,
+    "uzLatn": -8107961
+   },
+   "counts": {
+    "headers": 17,
+    "clauses": 0,
+    "paragraphs": 153,
+    "chars": 50026
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "64fea620b1e0005e5078a1a87e5e7178d0be6a910888a794b3aaec366c8e8671"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.03
+}

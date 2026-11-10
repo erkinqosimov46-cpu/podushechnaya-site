@@ -1,0 +1,70 @@
+{
+ "slug": "mj-3341",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/5762775",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3341-сон 06.12.2021. Об утверждении Положения о порядке подготовки, утверждения и представления сметы расходов и финансовой отчетности государственных целевых фондов",
+   "edition": "2026-08-05",
+   "editions": [
+    "2021-12-06",
+    "2024-02-13",
+    "2024-08-19",
+    "2026-02-20",
+    "2026-08-05"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 5762762,
+    "uzLatn": -5762762
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1582
+   },
+   "cyrillicShare": 0.961,
+   "unofficialNotes": 0,
+   "sha256": "4e0a96adc170208097cb386e6634ee8da2e2c55620fe77bc20d08aececa919de"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/5762762",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3341-сон 06.12.2021. Давлат мақсадли жамғармаларининг харажатлар сметаси ҳамда молиявий ҳисоботларини тузиш, тасдиқлаш ва тақдим этиш тартиби тўғрисидаги низомни тасдиқлаш ҳақида",
+   "edition": "2026-08-05",
+   "editions": [
+    "2021-12-06",
+    "2024-02-13",
+    "2024-08-19",
+    "2026-02-20",
+    "2026-08-05"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 5762775,
+    "uzLatn": -5762762
+   },
+   "counts": {
+    "headers": 23,
+    "clauses": 0,
+    "paragraphs": 297,
+    "chars": 232982
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "953222fefb88222bafc4928f448664f18a19a58c13ffdcacf8cec009218f3dba"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.01
+}

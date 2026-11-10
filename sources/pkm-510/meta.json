@@ -1,0 +1,58 @@
+{
+ "slug": "pkm-510",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/8503664",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "510-сон 22.09.2026. Об утверждении Положения о порядке формирования и ведения реестра информационных систем (программных продуктов) на основе искусственного интеллекта субъектов предпринимательства, допущенных к осуществлению государственных закупок на основе «запроса предложений»",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 8503622,
+    "uzLatn": -8503622
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1809
+   },
+   "cyrillicShare": 0.966,
+   "unofficialNotes": 0,
+   "sha256": "96b70d900c63ec39a2c05e38de72df12b2cfb351d7c44abb430b224cac857888"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/8503622",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "510-сон 22.09.2026. Давлат харидларини «таклиф сўрови» асосида амалга оширишга рухсат этилган тадбиркорлик субъектларининг сунъий интеллектга асосланган ахборот тизимлари (дастурий маҳсулотлар) реестрини шакллантириш ва юритиш тартиби тўғрисидаги низомни тасдиқлаш ҳақида",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 8503664,
+    "uzLatn": -8503622
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 0,
+    "paragraphs": 183,
+    "chars": 45441
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "9669252b16b942b4cdecdadc57f79aab112b2069feeffdf0d7b13ec626e8a2a4"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.04
+}

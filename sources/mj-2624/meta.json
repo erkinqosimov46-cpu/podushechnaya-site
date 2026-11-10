@@ -1,0 +1,70 @@
+{
+ "slug": "mj-2624",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/2496243",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "2624-сон 10.11.2014. Об утверждении формы и определении сроков представления отчета об исполнении бюджетов государственных целевых фондов",
+   "edition": "2023-07-26",
+   "editions": [
+    "2014-11-17",
+    "2018-03-29",
+    "2020-12-24",
+    "2021-11-30",
+    "2023-07-26"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 2496241,
+    "uzLatn": -2496241
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 10,
+    "chars": 19709
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "b7cde4663b7f164459001488383e744354f0b5a62d841b4a1aa8fa01aae5b844"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/2496241",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "2624-сон 10.11.2014. Давлат мақсадли жамғармалари бюджетларининг ижроси тўғрисидаги ҳисобот шаклини тасдиқлаш ва муддатларини белгилаш тўғрисида",
+   "edition": "2023-07-26",
+   "editions": [
+    "2014-11-17",
+    "2018-03-29",
+    "2020-12-24",
+    "2021-11-30",
+    "2023-07-26"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 2496243,
+    "uzLatn": -2496241
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 10,
+    "chars": 19965
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "b03b75c4fbfa8169ede4424883fc23220115bb44cbdcf058ef6f19a8df5ae6cf"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.99
+}

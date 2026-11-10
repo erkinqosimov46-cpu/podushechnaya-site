@@ -1,0 +1,1261 @@
+{
+ "checkedAt": "2026-11-10",
+ "groups": [
+  {
+   "id": "A",
+   "title": {
+    "ru": "Ядро: бюджетный процесс и казначейское исполнение",
+    "uz": "Асос: бюджет жараёни ва ғазна ижроси"
+   },
+   "late": false
+  },
+  {
+   "id": "B",
+   "title": {
+    "ru": "Казначейство: статус, ЕКС, услуги",
+    "uz": "Ғазначилик: мақоми, ЯҒҲ, хизматлар"
+   },
+   "late": false
+  },
+  {
+   "id": "C",
+   "title": {
+    "ru": "Регистрация бюджетных договоров в казначействе",
+    "uz": "Бюджет шартномаларини ғазначиликда рўйхатдан ўтказиш"
+   },
+   "late": false
+  },
+  {
+   "id": "D",
+   "title": {
+    "ru": "Бюджетная классификация, сметы, учёт и отчётность",
+    "uz": "Бюджет таснифи, сметалар, ҳисоб ва ҳисобот"
+   },
+   "late": false
+  },
+  {
+   "id": "E",
+   "title": {
+    "ru": "Государственные закупки",
+    "uz": "Давлат харидлари"
+   },
+   "late": false
+  },
+  {
+   "id": "F",
+   "title": {
+    "ru": "Управление госфинансами, долг, контроль",
+    "uz": "Давлат молиясини бошқариш, қарз, назорат"
+   },
+   "late": false
+  },
+  {
+   "id": "G",
+   "title": {
+    "ru": "Ответственность",
+    "uz": "Жавобгарлик"
+   },
+   "late": false
+  },
+  {
+   "id": "H",
+   "title": {
+    "ru": "Государственная служба и антикоррупция",
+    "uz": "Давлат хизмати ва коррупцияга қарши курашиш"
+   },
+   "late": true
+  },
+  {
+   "id": "I",
+   "title": {
+    "ru": "Общие законы",
+    "uz": "Умумий қонунлар"
+   },
+   "late": true
+  }
+ ],
+ "acts": [
+  {
+   "slug": "mj-2850",
+   "group": "A",
+   "kind": "mj",
+   "number": "2850",
+   "date": "2016-12-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 3081020,
+    "uz": 3081018
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "bk",
+   "group": "A",
+   "kind": "kodeks",
+   "number": "ЗРУ-360",
+   "date": "2013-12-26",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2304140,
+    "uz": 2304138
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-2772",
+   "group": "A",
+   "kind": "mj",
+   "number": "2772",
+   "date": "2016-03-30",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2922187,
+    "uz": 2922189
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-1941",
+   "group": "A",
+   "kind": "mj",
+   "number": "1941",
+   "date": "2009-04-16",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 1470837,
+    "uz": 1470791
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-120",
+   "group": "A",
+   "kind": "pkm",
+   "number": "120",
+   "date": "2014-05-13",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2389298,
+    "uz": 2389296
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Порядок обращения взыскания по исполнительным документам на средства бюджета; на него ссылается ст. 48⁷ Закона № 258-II."
+   }
+  },
+  {
+   "slug": "pkm-245",
+   "group": "A",
+   "kind": "pkm",
+   "number": "245",
+   "date": "2014-08-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2455646,
+    "uz": 2455644
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "zru-1105",
+   "group": "A",
+   "kind": "zru",
+   "number": "ЗРУ-1105",
+   "date": "2025-12-25",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7954601,
+    "uz": 7949060
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Действует на 2026 год."
+   }
+  },
+  {
+   "slug": "pp-388",
+   "group": "A",
+   "kind": "pp",
+   "number": "ПП-388",
+   "date": "2025-12-26",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7964376,
+    "uz": 7959569
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "up-269",
+   "group": "B",
+   "kind": "up",
+   "number": "УП-269",
+   "date": "2022-12-21",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6324798,
+    "uz": 6324756
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Создание Комитета казначейской службы."
+   }
+  },
+  {
+   "slug": "up-105",
+   "group": "B",
+   "kind": "up",
+   "number": "УП-105",
+   "date": "2025-06-26",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7605015,
+    "uz": 7604998
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pp-594",
+   "group": "B",
+   "kind": "pp",
+   "number": "ПП-594",
+   "date": "2007-02-28",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 1139943,
+    "uz": 1139941
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Принят до реорганизации 2022 г. Казначейство Минфина = ныне Комитет казначейской службы при МЭФ. Обновлён УП-105 от 26.06.2025: п. 1 ссылается на УП-269; абз. 7 и 10 п. 2, п. 9 и приложения № 1–4 утратили силу. Норма п. 6 о регистрации договоров закреплена и в ГК ст. 357 ч. 1 и Законе № 670-I ст. 13 ч. 1 (ЗРУ-1107)."
+   }
+  },
+  {
+   "slug": "pkm-53",
+   "group": "B",
+   "kind": "pkm",
+   "number": "53",
+   "date": "2007-03-20",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 1145694,
+    "uz": 1145689
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Принят до реорганизации 2022 г. Казначейство Минфина = ныне Комитет казначейской службы при МЭФ. Текст по-прежнему о «Казначействе Минфина». ПП-594 (в ред. УП-105) поручает утвердить новое Положение о Комитете — на lex.uz его нет; на gov.uz/gazna опубликован «Временный устав»."
+   }
+  },
+  {
+   "slug": "pkm-383",
+   "group": "B",
+   "kind": "pkm",
+   "number": "383",
+   "date": "2018-05-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 3750088,
+    "uz": 3750090
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-47",
+   "group": "B",
+   "kind": "pkm",
+   "number": "47",
+   "date": "2024-01-25",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6781794,
+    "uz": 6779569
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-345",
+   "group": "B",
+   "kind": "pkm",
+   "number": "345",
+   "date": "2022-06-24",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6082293,
+    "uz": 6080496
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-573",
+   "group": "B",
+   "kind": "pkm",
+   "number": "573",
+   "date": "2020-09-21",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5009175,
+    "uz": 5008632
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-1016",
+   "group": "B",
+   "kind": "pkm",
+   "number": "1016",
+   "date": "2018-12-14",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 4107850,
+    "uz": 4107843
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "gazna-ustav",
+   "group": "B",
+   "kind": "other",
+   "number": "",
+   "date": "",
+   "source": "gov.uz",
+   "pages": [
+    {
+     "id": "nizom",
+     "ru": "https://gov.uz/ru/gazna/pages/g-aznachilikning-faoliyati-to-g-risidagi-nizomi",
+     "uz": "https://gov.uz/oz/gazna/pages/g-aznachilikning-faoliyati-to-g-risidagi-nizomi"
+    },
+    {
+     "id": "vazifalar",
+     "ru": "https://gov.uz/ru/gazna/pages/g-aznachilikning-vazifalari-va-funksiyalari",
+     "uz": "https://gov.uz/oz/gazna/pages/g-aznachilikning-vazifalari-va-funksiyalari"
+    }
+   ],
+   "uzScript": "latn",
+   "scope": "full",
+   "note": {
+    "ru": "Источник — официальный Правительственный портал gov.uz, не lex.uz. Реквизиты утверждения на странице не указаны. Узбекский текст на портале на латинице — кириллица получена транслитерацией."
+   }
+  },
+  {
+   "slug": "zru-1107",
+   "group": "C",
+   "kind": "zru",
+   "number": "ЗРУ-1107",
+   "date": "2025-12-25",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7953538,
+    "uz": 7944412
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Поправки: ГК ст. 357 ч. 1, Закон № 670-I ст. 13 ч. 1, БК, КоАО ст. 175⁶."
+   }
+  },
+  {
+   "slug": "zru-1141",
+   "group": "C",
+   "kind": "zru",
+   "number": "ЗРУ-1141",
+   "date": "2026-04-21",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 8158837,
+    "uz": 8154966
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Поправки: БК ст. 187, ЗРУ-684 ст. 27 ч. 4, КоАО."
+   }
+  },
+  {
+   "slug": "gk-1",
+   "group": "C",
+   "kind": "kodeks",
+   "number": "163-I",
+   "date": "1995-12-21",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 111181,
+    "uz": 111189
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "101-112",
+     "113-128",
+     "129-144",
+     "236-258",
+     "260-263",
+     "324-339",
+     "353-363",
+     "364-381",
+     "382-385"
+    ],
+    "extra": [
+     "145-148",
+     "178-181",
+     "299-310",
+     "311-312",
+     "340-352"
+    ]
+   },
+   "note": {
+    "ru": "Ключевая — ст. 357."
+   }
+  },
+  {
+   "slug": "gk-2",
+   "group": "C",
+   "kind": "kodeks",
+   "number": "256-I",
+   "date": "1996-08-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 180550,
+    "uz": 180552
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "437-456",
+     "457-464",
+     "631-655",
+     "666-685",
+     "703-708",
+     "790-795"
+    ],
+    "extra": [
+     "386-424",
+     "468-478",
+     "535-557",
+     "573-578",
+     "686-692",
+     "1023-1030"
+    ]
+   }
+  },
+  {
+   "slug": "z-670-i",
+   "group": "C",
+   "kind": "zru",
+   "number": "670-I",
+   "date": "1998-08-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 10872,
+    "uz": 18942
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Ключевая — ст. 13."
+   }
+  },
+  {
+   "slug": "mj-2146",
+   "group": "D",
+   "kind": "mj",
+   "number": "2146",
+   "date": "2010-10-11",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 1688894,
+    "uz": 1688892
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-2634",
+   "group": "D",
+   "kind": "mj",
+   "number": "2634",
+   "date": "2014-12-15",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2520438,
+    "uz": 2520442
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-3341",
+   "group": "D",
+   "kind": "mj",
+   "number": "3341",
+   "date": "2021-12-06",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5762775,
+    "uz": 5762762
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-3255",
+   "group": "D",
+   "kind": "mj",
+   "number": "3255",
+   "date": "2020-06-30",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 4883735,
+    "uz": 4883729
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-2624",
+   "group": "D",
+   "kind": "mj",
+   "number": "2624",
+   "date": "2014-11-10",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2496243,
+    "uz": 2496241
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "zru-404",
+   "group": "D",
+   "kind": "zru",
+   "number": "ЗРУ-404",
+   "date": "2016-04-13",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2931251,
+    "uz": 2931253
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "Закон «О бухгалтерском учете» в новой редакции."
+   }
+  },
+  {
+   "slug": "mj-2169",
+   "group": "D",
+   "kind": "mj",
+   "number": "2169",
+   "date": "2010-12-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 1714691,
+    "uz": 1714689
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "mj-3797",
+   "group": "D",
+   "kind": "mj",
+   "number": "3797",
+   "date": "2026-03-27",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 8108340,
+    "uz": 8107961
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "СБУ № 1"
+   }
+  },
+  {
+   "slug": "mj-3078",
+   "group": "D",
+   "kind": "mj",
+   "number": "3078",
+   "date": "2018-10-20",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 4021369,
+    "uz": 4008308
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "СБУ № 2 — План единых счетов"
+   }
+  },
+  {
+   "slug": "mj-3124",
+   "group": "D",
+   "kind": "mj",
+   "number": "3124",
+   "date": "2019-01-18",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 4176115,
+    "uz": 4176111
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "СБУ № 3"
+   }
+  },
+  {
+   "slug": "mj-3361",
+   "group": "D",
+   "kind": "mj",
+   "number": "3361",
+   "date": "2022-04-01",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5936169,
+    "uz": 5936160
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "СБУ № 13"
+   }
+  },
+  {
+   "slug": "mj-3396",
+   "group": "D",
+   "kind": "mj",
+   "number": "3396",
+   "date": "2022-11-02",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6278928,
+    "uz": 6272851
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "СБУ № 14"
+   }
+  },
+  {
+   "slug": "mj-3857",
+   "group": "D",
+   "kind": "mj",
+   "number": "3857",
+   "date": "2026-06-18",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 8281814,
+    "uz": -8277785
+   },
+   "uzScript": "cyrl-lexuz",
+   "scope": "full",
+   "note": {
+    "ru": "СБУ № 19"
+   }
+  },
+  {
+   "slug": "zru-684",
+   "group": "E",
+   "kind": "zru",
+   "number": "ЗРУ-684",
+   "date": "2021-04-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5382983,
+    "uz": 5382974
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-276",
+   "group": "E",
+   "kind": "pkm",
+   "number": "276",
+   "date": "2022-05-20",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6026646,
+    "uz": 6026643
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "up-259",
+   "group": "E",
+   "kind": "up",
+   "number": "УП-259",
+   "date": "2025-12-26",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7952240,
+    "uz": 7952218
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pp-249",
+   "group": "E",
+   "kind": "pp",
+   "number": "ПП-249",
+   "date": "2024-07-10",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7010515,
+    "uz": 7010370
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-865",
+   "group": "E",
+   "kind": "pkm",
+   "number": "865",
+   "date": "2024-12-20",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7279140,
+    "uz": 7271145
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-480",
+   "group": "E",
+   "kind": "pkm",
+   "number": "480",
+   "date": "2026-09-08",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 8462946,
+    "uz": 8462556
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-510",
+   "group": "E",
+   "kind": "pkm",
+   "number": "510",
+   "date": "2026-09-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 8503664,
+    "uz": 8503622
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-210",
+   "group": "F",
+   "kind": "pkm",
+   "number": "210",
+   "date": "2025-04-08",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7473280,
+    "uz": 7469803
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-279",
+   "group": "F",
+   "kind": "pkm",
+   "number": "279",
+   "date": "2025-04-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7506943,
+    "uz": 7503919
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pp-128",
+   "group": "F",
+   "kind": "pp",
+   "number": "ПП-128",
+   "date": "2022-02-14",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5858714,
+    "uz": 5858712
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "zru-836",
+   "group": "F",
+   "kind": "zru",
+   "number": "ЗРУ-836",
+   "date": "2023-04-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6446825,
+    "uz": 6446817
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "zru-546",
+   "group": "F",
+   "kind": "zru",
+   "number": "ЗРУ-546",
+   "date": "2019-07-01",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 4394326,
+    "uz": 4394324
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "up-252",
+   "group": "F",
+   "kind": "up",
+   "number": "УП-252",
+   "date": "2025-12-18",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7926728,
+    "uz": 7926706
+   },
+   "uzScript": "cyrl",
+   "scope": "full"
+  },
+  {
+   "slug": "pkm-129",
+   "group": "F",
+   "kind": "pkm",
+   "number": "129",
+   "date": "2022-03-24",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5920337,
+    "uz": 5920335
+   },
+   "uzScript": "cyrl",
+   "scope": "full",
+   "note": {
+    "ru": "По КоАО ст. 264¹ (ред. ЗРУ-1038 от 25.02.2025) инспекция финконтроля — при Департаменте при Генпрокуратуре; актуальность акта проверить."
+   }
+  },
+  {
+   "slug": "koao",
+   "group": "G",
+   "kind": "kodeks",
+   "number": "2015-XII",
+   "date": "1994-09-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 97661,
+    "uz": 97664
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "15",
+     "43",
+     "175^1",
+     "175^2",
+     "175^6",
+     "175^7",
+     "175^8",
+     "193^4"
+    ],
+    "extra": [
+     "36",
+     "44",
+     "175",
+     "245^6",
+     "264^1",
+     "264^2"
+    ]
+   }
+  },
+  {
+   "slug": "uk",
+   "group": "G",
+   "kind": "kodeks",
+   "number": "",
+   "date": "1994-09-22",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 111457,
+    "uz": 111453
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "167",
+     "184^1",
+     "205-214"
+    ],
+    "extra": [
+     "168",
+     "278^2",
+     "278^4"
+    ]
+   }
+  },
+  {
+   "slug": "zru-788",
+   "group": "H",
+   "kind": "zru",
+   "number": "ЗРУ-788",
+   "date": "2022-08-08",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6146009,
+    "uz": 6145972
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "3-5",
+     "10-20",
+     "33-36",
+     "43-57",
+     "61"
+    ]
+   }
+  },
+  {
+   "slug": "up-95",
+   "group": "H",
+   "kind": "up",
+   "number": "УП-95",
+   "date": "2025-06-19",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 7587516,
+    "uz": 7587464
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "pending": "основная часть указа без приложений и поручений ведомствам — пункты выбрать при разборе"
+   }
+  },
+  {
+   "slug": "zru-419",
+   "group": "H",
+   "kind": "zru",
+   "number": "ЗРУ-419",
+   "date": "2017-01-03",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 3088013,
+    "uz": 3088008
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "3",
+     "4",
+     "19",
+     "19^1",
+     "21",
+     "26",
+     "27",
+     "27^1",
+     "28"
+    ]
+   }
+  },
+  {
+   "slug": "zru-931",
+   "group": "H",
+   "kind": "zru",
+   "number": "ЗРУ-931",
+   "date": "2024-06-05",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6952745,
+    "uz": 6952742
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "3-8",
+     "13-21",
+     "26",
+     "29"
+    ]
+   }
+  },
+  {
+   "slug": "tk",
+   "group": "H",
+   "kind": "kodeks",
+   "number": "",
+   "date": "2022-10-28",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6257291,
+    "uz": 6257288
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "295-315",
+     "316-318",
+     "337-350"
+    ],
+    "extra": [
+     "151-154",
+     "155-174"
+    ]
+   }
+  },
+  {
+   "slug": "konst",
+   "group": "I",
+   "kind": "konst",
+   "number": "",
+   "date": "2023-04-30",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6445147,
+    "uz": 6445145
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "2",
+     "15",
+     "16",
+     "37",
+     "40",
+     "55",
+     "93",
+     "94",
+     "115",
+     "147-151"
+    ],
+    "extra": [
+     "122",
+     "123"
+    ]
+   }
+  },
+  {
+   "slug": "z-258-ii",
+   "group": "I",
+   "kind": "zru",
+   "number": "258-II",
+   "date": "2001-08-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 13896,
+    "uz": 26477
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "1-5",
+     "7",
+     "8",
+     "8^1",
+     "8^2",
+     "8^3",
+     "9",
+     "11",
+     "21",
+     "23",
+     "24",
+     "27-30",
+     "31",
+     "32",
+     "33-41",
+     "44-47",
+     "48^7",
+     "58",
+     "81",
+     "82"
+    ]
+   },
+   "note": {
+    "ru": "Исполнение судебных актов за счёт бюджетных средств — разобрать подробно; вместе с ПКМ № 120."
+   }
+  },
+  {
+   "slug": "zru-578",
+   "group": "I",
+   "kind": "zru",
+   "number": "ЗРУ-578",
+   "date": "2019-11-01",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 4575788,
+    "uz": 4575786
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "32-34",
+     "45-52"
+    ]
+   },
+   "note": {
+    "ru": "Только нормы об операциях казначейства."
+   }
+  },
+  {
+   "slug": "zru-793",
+   "group": "I",
+   "kind": "zru",
+   "number": "ЗРУ-793",
+   "date": "2022-10-12",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 6234906,
+    "uz": 6234904
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "1-5",
+     "27",
+     "28"
+    ]
+   },
+   "note": {
+    "ru": "Только нормы об операциях казначейства."
+   }
+  },
+  {
+   "slug": "z-611-ii",
+   "group": "I",
+   "kind": "zru",
+   "number": "611-II",
+   "date": "2004-04-29",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 165074,
+    "uz": 165079
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "4-9",
+     "14-17"
+    ]
+   },
+   "note": {
+    "ru": "Только нормы об операциях казначейства."
+   }
+  },
+  {
+   "slug": "zru-445",
+   "group": "I",
+   "kind": "zru",
+   "number": "ЗРУ-445",
+   "date": "2017-09-11",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 3336171,
+    "uz": 3336169
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "15-35",
+     "37",
+     "38"
+    ]
+   },
+   "note": {
+    "ru": "Закон «Об обращениях физических и юридических лиц» в новой редакции."
+   }
+  },
+  {
+   "slug": "zru-457",
+   "group": "I",
+   "kind": "zru",
+   "number": "ЗРУ-457",
+   "date": "2018-01-08",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 3492203,
+    "uz": 3492199
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "1-40",
+     "52-61"
+    ]
+   }
+  },
+  {
+   "slug": "zru-369",
+   "group": "I",
+   "kind": "zru",
+   "number": "ЗРУ-369",
+   "date": "2014-05-05",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 2381138,
+    "uz": 2381133
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "11-20"
+    ]
+   }
+  },
+  {
+   "slug": "zru-682",
+   "group": "I",
+   "kind": "zru",
+   "number": "ЗРУ-682",
+   "date": "2021-04-20",
+   "source": "lex.uz",
+   "lex": {
+    "ru": 5378968,
+    "uz": 5378966
+   },
+   "uzScript": "cyrl",
+   "scope": {
+    "core": [
+     "6-18",
+     "36-47"
+    ]
+   }
+  }
+ ]
+}

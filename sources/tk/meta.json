@@ -1,0 +1,88 @@
+{
+ "slug": "tk",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6257291",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "28.10.2022. Трудовой кодекс Республики Узбекистан",
+   "edition": "2026-10-15",
+   "editions": [
+    "2023-04-12",
+    "2023-04-30",
+    "2023-11-29",
+    "2024-02-22",
+    "2024-07-04",
+    "2024-09-21",
+    "2025-02-14",
+    "2025-09-25",
+    "2025-11-12",
+    "2025-12-30",
+    "2026-01-01",
+    "2026-07-25",
+    "2026-09-12",
+    "2026-10-15"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6257288,
+    "uzLatn": -6257288
+   },
+   "counts": {
+    "headers": 95,
+    "clauses": 593,
+    "paragraphs": 3024,
+    "chars": 1240748
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 23,
+   "sha256": "dc0323c63fd944bff3e87402db92541c07b2e9e3aaa9a9630405c95f4a8f14c5"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6257288",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "28.10.2022. Ўзбекистон Республикасининг Меҳнат кодекси",
+   "edition": "2026-10-15",
+   "editions": [
+    "2023-04-12",
+    "2023-04-30",
+    "2023-11-29",
+    "2024-02-22",
+    "2024-07-04",
+    "2024-09-21",
+    "2025-02-14",
+    "2025-09-25",
+    "2025-11-12",
+    "2025-12-30",
+    "2026-01-01",
+    "2026-07-25",
+    "2026-09-12",
+    "2026-10-15"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6257291,
+    "uzLatn": -6257288
+   },
+   "counts": {
+    "headers": 95,
+    "clauses": 593,
+    "paragraphs": 3025,
+    "chars": 1230257
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "92009e3a0046b3bea0723f53895a1e6ed12fa8d0e9499d87862f7e7f2e9dfc66"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.01
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "zru-1105",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/7954601",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-1105-сон 25.12.2025. О Государственном бюджете Республики Узбекистан на 2026 год",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 7949060,
+    "uzLatn": -7949060
+   },
+   "counts": {
+    "headers": 4,
+    "clauses": 17,
+    "paragraphs": 99,
+    "chars": 34082
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 1,
+   "sha256": "e247bc431099edf480eac145d5d082016f9bc32473954abfc417a0f859291720"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/7949060",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-1105-сон 25.12.2025. 2026 йил учун Ўзбекистон Республикасининг Давлат бюджети тўғрисида",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 7954601,
+    "uzLatn": -7949060
+   },
+   "counts": {
+    "headers": 4,
+    "clauses": 17,
+    "paragraphs": 99,
+    "chars": 127728
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "041aa035b4d6c4e06e14c3bf44c0bff41b25d98ec7d23576227f2c901684a858"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "partial",
+ "ruToUzSize": 0.27
+}

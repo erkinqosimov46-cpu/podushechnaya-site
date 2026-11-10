@@ -1,0 +1,70 @@
+{
+ "slug": "mj-3255",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/4883735",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3255-сон 30.06.2020. Об утверждении форм квартальной и годовой отчетности о выполнении плана по сети, штатам и контингенту по бюджетным организациям, финансируемым из Государственного бюджета Республики Узбекистан",
+   "edition": "2025-12-26",
+   "editions": [
+    "2021-01-01",
+    "2024-10-03",
+    "2024-12-13",
+    "2025-12-02",
+    "2025-12-26"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 4883729,
+    "uzLatn": -4883729
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1644
+   },
+   "cyrillicShare": 0.963,
+   "unofficialNotes": 0,
+   "sha256": "3931279119be509cacdb3d804fefe3e94884c4b4da4163eec19eb080b04f7e6a"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/4883729",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3255-сон 30.06.2020. Ўзбекистон Республикаси Давлат бюджетидан молиялаштириладиган бюджет ташкилотлари бўйича тармоқ, штатлар ва контингентга доир режанинг бажарилиши тўғрисидаги чораклик ва йиллик ҳисобот шаклларини тасдиқлаш ҳақида",
+   "edition": "2025-12-26",
+   "editions": [
+    "2021-01-01",
+    "2024-10-03",
+    "2024-12-13",
+    "2025-12-02",
+    "2025-12-26"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 4883735,
+    "uzLatn": -4883729
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 31,
+    "chars": 177955
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "6f68a834d53d0390c4b410d7c471b51040b96b561dea72aef07a54c6ca22b8fc"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.01
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "mj-2169",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/1714691",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "2169-сон 22.12.2010. Об утверждении инструкции по бухгалтерскому учету в бюджетных организациях",
+   "edition": "2026-04-04",
+   "editions": [
+    "2011-01-01",
+    "2017-04-10",
+    "2018-03-18",
+    "2020-07-29",
+    "2022-04-27",
+    "2022-12-22",
+    "2023-08-01",
+    "2024-07-31",
+    "2025-08-22",
+    "2026-04-04"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 1714689,
+    "uzLatn": -1714689
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 4,
+    "chars": 2648
+   },
+   "cyrillicShare": 0.972,
+   "unofficialNotes": 1,
+   "sha256": "baf2ea2701f52d19725084d013f60f186992fe91fb47b45d3f1a071d892fbb8c"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/1714689",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "2169-сон 22.12.2010. Бюджет ташкилотларида бухгалтерия ҳисоби тўғрисидаги йўриқномани тасдиқлаш ҳақида",
+   "edition": "2026-04-04",
+   "editions": [
+    "2011-01-01",
+    "2017-04-10",
+    "2018-03-18",
+    "2020-07-29",
+    "2022-04-27",
+    "2022-12-22",
+    "2023-08-01",
+    "2024-07-31",
+    "2025-08-22",
+    "2026-04-04"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 1714691,
+    "uzLatn": -1714689
+   },
+   "counts": {
+    "headers": 14,
+    "clauses": 0,
+    "paragraphs": 374,
+    "chars": 363194
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "67b3d3dd026da357be2a73fed474e747a255996c84f3c7a1fc72d369bb78a0d7"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.01
+}

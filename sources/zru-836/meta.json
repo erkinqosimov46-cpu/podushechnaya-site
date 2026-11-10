@@ -1,0 +1,91 @@
+{
+ "slug": "zru-836",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6446825",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-836-сон 29.04.2023. О государственном долге",
+   "edition": "2025-12-26",
+   "editions": [
+    "1996-09-12",
+    "2014-01-01",
+    "2015-06-04",
+    "2018-01-01",
+    "2018-07-24",
+    "2018-07-27",
+    "2019-09-01",
+    "2023-08-02",
+    "2023-11-29",
+    "2024-10-26",
+    "2025-05-08",
+    "2025-12-26",
+    "2027-01-01"
+   ],
+   "futureEditions": [
+    "2027-01-01"
+   ],
+   "nextVersion": "Cмотрите на изменения, вступающие в силу с 1 января 2027 года",
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6446817,
+    "uzLatn": -6446817
+   },
+   "counts": {
+    "headers": 10,
+    "clauses": 61,
+    "paragraphs": 412,
+    "chars": 137961
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "fcaf5e9966f1bd14cbbfe6ae3f6d6441eab34ffb2ce7428fefff4237c4411dcf"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6446817",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-836-сон 29.04.2023. Давлат қарзи тўғрисида",
+   "edition": "2025-12-26",
+   "editions": [
+    "1996-09-12",
+    "2014-01-01",
+    "2015-06-04",
+    "2018-01-01",
+    "2018-07-24",
+    "2018-07-27",
+    "2019-09-01",
+    "2021-04-21",
+    "2023-08-02",
+    "2023-11-29",
+    "2024-10-26",
+    "2025-05-08",
+    "2025-12-26",
+    "2027-01-01"
+   ],
+   "futureEditions": [
+    "2027-01-01"
+   ],
+   "nextVersion": "2027 йил 1 январдан кучга кирадиган ўзгаришларга қаранг",
+   "status": null,
+   "counterpart": {
+    "ru": 6446825,
+    "uzLatn": -6446817
+   },
+   "counts": {
+    "headers": 10,
+    "clauses": 61,
+    "paragraphs": 412,
+    "chars": 134510
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "9da74ea37b283ccafdf0dac34d1fb80ae6767c8dd140ac6f15d427577ad417cd"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.03
+}

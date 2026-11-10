@@ -1,0 +1,67 @@
+{
+ "slug": "pkm-210",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/7473280",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "210-сон 08.04.2025. Об утверждении Стратегии совершенствования системы управления государственными финансами на 2025-2030 годы",
+   "edition": "2026-07-21",
+   "editions": [
+    "2025-04-10",
+    "2026-01-01",
+    "2026-07-21"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 7469803,
+    "uzLatn": -7469803
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1358
+   },
+   "cyrillicShare": 0.955,
+   "unofficialNotes": 0,
+   "sha256": "3b1167318127e510ea54dfca9c187c9dc38e1b4443be890ba43f42c52b4aaebb"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/7469803",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "210-сон 08.04.2025. 2025-2030 йилларда давлат молиясини бошқариш тизимини такомиллаштириш стратегиясини тасдиқлаш тўғрисида",
+   "edition": "2026-07-21",
+   "editions": [
+    "2025-04-10",
+    "2026-01-01",
+    "2026-07-21",
+    "2026-11-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 7473280,
+    "uzLatn": -7469803
+   },
+   "counts": {
+    "headers": 9,
+    "clauses": 0,
+    "paragraphs": 140,
+    "chars": 82308
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "42bcd35efe73b768816cc95190ce95675e029b3d857468aa3e7474d0836f18f9"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.02
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "pkm-345",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6082293",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "345-сон 24.06.2022. О мерах по организации казначейского обслуживания унитарных предприятий, учредителями которых являются бюджетные организации",
+   "edition": "2025-02-25",
+   "editions": [
+    "2022-06-25",
+    "2025-01-01",
+    "2025-02-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6080496,
+    "uzLatn": -6080496
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1531
+   },
+   "cyrillicShare": 0.96,
+   "unofficialNotes": 0,
+   "sha256": "38857595a1d245c90c261085ab9da14824cbe81a1edb98b13d0351375895d23f"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6080496",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "345-сон 24.06.2022. Таъсисчиси бюджет ташкилотлари бўлган унитар корхоналарга ғазначилик орқали хизмат кўрсатишни ташкил этиш чора-тадбирлари тўғрисида",
+   "edition": "2025-02-25",
+   "editions": [
+    "2022-06-25",
+    "2025-01-01",
+    "2025-02-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6082293,
+    "uzLatn": -6080496
+   },
+   "counts": {
+    "headers": 8,
+    "clauses": 0,
+    "paragraphs": 83,
+    "chars": 55900
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "edd8a3a0ff7a09741787f0d45bd24371f282313c1ad0634a1e0b78da80d5d642"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.03
+}

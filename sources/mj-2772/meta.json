@@ -1,0 +1,72 @@
+{
+ "slug": "mj-2772",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/2922187",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "2772-сон 30.03.2016. Об утверждении Правил по ведению казначейских лицевых счетов в информационной системе Министерства экономики и финансов Республики Узбекистан",
+   "edition": "2026-05-26",
+   "editions": [
+    "2016-04-04",
+    "2018-05-07",
+    "2021-11-30",
+    "2023-08-24",
+    "2025-10-24",
+    "2026-05-26"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 2922189,
+    "uzLatn": -2922189
+   },
+   "counts": {
+    "headers": 11,
+    "clauses": 0,
+    "paragraphs": 135,
+    "chars": 78935
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "c35114dd0266c95b7c45071a1e92dd6db6b880516956c1a17d61f986bd3e2bc8"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/2922189",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "2772-сон 30.03.2016. Ўзбекистон Республикаси Иқтисодиёт ва молия вазирлигининг ахборот тизимида шахсий ғазна ҳисобварақларини юритиш қоидаларини тасдиқлаш ҳақида",
+   "edition": "2026-05-26",
+   "editions": [
+    "2016-04-04",
+    "2018-05-07",
+    "2021-11-30",
+    "2023-08-24",
+    "2025-10-24",
+    "2026-05-26"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 2922187,
+    "uzLatn": -2922189
+   },
+   "counts": {
+    "headers": 11,
+    "clauses": 0,
+    "paragraphs": 135,
+    "chars": 78160
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "c22aea919a1f2a91f584732800427e35978a184c79d67ef425ad0e6e51c9d28e"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.01
+}

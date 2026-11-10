@@ -1,0 +1,84 @@
+{
+ "slug": "zru-684",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/5382983",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-684-сон 22.04.2021. О государственных закупках",
+   "edition": "2026-07-25",
+   "editions": [
+    "2019-12-04",
+    "2021-07-24",
+    "2024-02-22",
+    "2025-03-01",
+    "2025-04-17",
+    "2025-05-08",
+    "2025-09-25",
+    "2026-06-23",
+    "2026-06-29",
+    "2026-07-08",
+    "2026-07-24",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 5382974,
+    "uzLatn": -5382974
+   },
+   "counts": {
+    "headers": 14,
+    "clauses": 99,
+    "paragraphs": 784,
+    "chars": 280221
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 8,
+   "sha256": "43f1f69a5605f914ec4c62053351ad5859094263d330b301722d2bf62ee4f362"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/5382974",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-684-сон 22.04.2021. Давлат харидлари тўғрисида",
+   "edition": "2026-07-25",
+   "editions": [
+    "2019-12-04",
+    "2021-07-24",
+    "2024-02-22",
+    "2025-03-01",
+    "2025-04-17",
+    "2025-05-08",
+    "2025-09-25",
+    "2026-06-23",
+    "2026-06-29",
+    "2026-07-08",
+    "2026-07-24",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 5382983,
+    "uzLatn": -5382974
+   },
+   "counts": {
+    "headers": 14,
+    "clauses": 99,
+    "paragraphs": 784,
+    "chars": 261376
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "0e2471c638679b6579afd7328aa00b6d1a59eb2951db39d8fb06c1dcee4cee5e"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.07
+}

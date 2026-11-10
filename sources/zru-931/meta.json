@@ -1,0 +1,71 @@
+{
+ "slug": "zru-931",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6952745",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-931-сон 05.06.2024. О конфликте интересов",
+   "edition": null,
+   "editions": [
+    "1997-03-01",
+    "2017-01-04",
+    "2021-01-15",
+    "2022-08-04",
+    "2024-06-17"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6952742,
+    "uzLatn": -6952742
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 34,
+    "paragraphs": 210,
+    "chars": 75527
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "e8384fde27d5a7443b5d1eb74c6a5f13f153a33b7692a6c1ba0d737002a66d1a"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6952742",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-931-сон 05.06.2024. Манфаатлар тўқнашуви тўғрисида",
+   "edition": null,
+   "editions": [
+    "1997-03-01",
+    "2017-01-04",
+    "2021-01-15",
+    "2021-04-21",
+    "2022-08-04",
+    "2024-06-17"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6952745,
+    "uzLatn": -6952742
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 34,
+    "paragraphs": 210,
+    "chars": 73797
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "95909a7eaff7caaf5f39c1efe4c51745bda159413426782acb625d46c6c36348"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.02
+}

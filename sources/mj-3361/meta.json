@@ -1,0 +1,64 @@
+{
+ "slug": "mj-3361",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/5936169",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3361-сон 01.04.2022. Об утверждении стандарта бюджетного учета Республики Узбекистан (СБУ № 13) «Консолидированные финансовые отчеты»",
+   "edition": "2023-08-01",
+   "editions": [
+    "2023-01-01",
+    "2023-08-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 5936160,
+    "uzLatn": -5936160
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1779
+   },
+   "cyrillicShare": 0.964,
+   "unofficialNotes": 0,
+   "sha256": "0946634523ed52dcf0d66ea8070d67b9131adad93845be4b3c47fb85b6082564"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/5936160",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3361-сон 01.04.2022. Ўзбекистон Республикаси бюджет ҳисобининг стандарти (13-сонли БҲС) «Консолидациялашган молиявий ҳисоботлар»ни тасдиқлаш тўғрисида",
+   "edition": "2023-08-01",
+   "editions": [
+    "2023-01-01",
+    "2023-08-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 5936169,
+    "uzLatn": -5936160
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 0,
+    "paragraphs": 32,
+    "chars": 28541
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "4f25a3a90a1694390b8ecdc6af11cad662bdc78db730eb5e5651afea32a4358a"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.06
+}

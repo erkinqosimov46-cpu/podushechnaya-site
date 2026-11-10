@@ -1,0 +1,86 @@
+{
+ "slug": "mj-3124",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/4176115",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3124-сон 18.01.2019. Об утверждении Стандарта бюджетного учета Республики Узбекистан (СБУ № 3) «Бюджетной отчетности»",
+   "edition": "2026-02-16",
+   "editions": [
+    "2020-01-01",
+    "2020-12-28",
+    "2021-06-26",
+    "2021-07-28",
+    "2022-06-20",
+    "2023-01-11",
+    "2023-08-01",
+    "2024-03-11",
+    "2024-08-19",
+    "2025-03-17",
+    "2025-12-02",
+    "2025-12-11",
+    "2026-02-16"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 4176111,
+    "uzLatn": -4176111
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1541
+   },
+   "cyrillicShare": 0.96,
+   "unofficialNotes": 0,
+   "sha256": "4cfe64001067ccf39ef27ba2082c460e2da7dcc34cf012f7cb85d7e4e383dd57"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/4176111",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3124-сон 18.01.2019. Ўзбекистон Республикаси бюджет ҳисобининг стандарти (3-сонли БҲС) «Бюджет ҳисоботи»ни тасдиқлаш тўғрисида",
+   "edition": "2026-02-16",
+   "editions": [
+    "2020-01-01",
+    "2020-12-28",
+    "2021-06-26",
+    "2021-07-28",
+    "2022-06-20",
+    "2023-01-11",
+    "2023-08-01",
+    "2024-03-11",
+    "2024-08-19",
+    "2025-03-17",
+    "2025-12-02",
+    "2025-12-11",
+    "2026-02-16"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 4176115,
+    "uzLatn": -4176111
+   },
+   "counts": {
+    "headers": 19,
+    "clauses": 0,
+    "paragraphs": 364,
+    "chars": 207051
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "824c408f49fa73c71c438d8041b89c13ed1e7cc14d3ec2fa1d831a61809c3cd2"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.01
+}

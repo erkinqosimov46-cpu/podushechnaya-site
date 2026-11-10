@@ -1,0 +1,70 @@
+{
+ "slug": "zru-369",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/2381138",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-369-сон 05.05.2014. Об открытости деятельности органов государственной власти и управления",
+   "edition": "2023-11-29",
+   "editions": [
+    "2014-05-06",
+    "2017-09-15",
+    "2019-08-30",
+    "2021-04-21",
+    "2023-11-29"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 2381133,
+    "uzLatn": -2381133
+   },
+   "counts": {
+    "headers": 4,
+    "clauses": 24,
+    "paragraphs": 133,
+    "chars": 52878
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "17a13954e822816ad0e4b643afd11abc355ff243b81435638d0f78a108d36872"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/2381133",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-369-сон 05.05.2014. Давлат ҳокимияти ва бошқаруви органлари фаолиятининг очиқлиги тўғрисида",
+   "edition": "2023-11-29",
+   "editions": [
+    "2014-05-06",
+    "2017-09-15",
+    "2019-08-30",
+    "2021-04-21",
+    "2023-11-29"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 2381138,
+    "uzLatn": -2381133
+   },
+   "counts": {
+    "headers": 4,
+    "clauses": 24,
+    "paragraphs": 133,
+    "chars": 58017
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "b4d3391411c48f4f418261da97fc025534fb7eec8bea0efeb02c6ab4b60e8401"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.91
+}

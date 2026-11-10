@@ -1,0 +1,84 @@
+{
+ "slug": "zru-546",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/4394326",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-546-сон 01.07.2019. О Счетной палате Республики Узбекистан",
+   "edition": "2026-06-23",
+   "editions": [
+    "2019-09-01",
+    "2019-09-05",
+    "2021-04-21",
+    "2021-08-26",
+    "2021-08-28",
+    "2021-12-29",
+    "2023-07-18",
+    "2023-08-02",
+    "2023-11-29",
+    "2024-02-19",
+    "2025-12-26",
+    "2026-06-23"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 4394324,
+    "uzLatn": -4394324
+   },
+   "counts": {
+    "headers": 8,
+    "clauses": 53,
+    "paragraphs": 224,
+    "chars": 102199
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 11,
+   "sha256": "e91a5d72c4560f5f7bb573baace49fcd45634ffc17a8a70663606ee67f0a188e"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/4394324",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-546-сон 01.07.2019. Ўзбекистон Республикасининг Ҳисоб палатаси тўғрисида",
+   "edition": "2026-06-23",
+   "editions": [
+    "2019-09-01",
+    "2019-09-05",
+    "2021-04-21",
+    "2021-08-26",
+    "2021-08-28",
+    "2021-12-29",
+    "2023-07-18",
+    "2023-08-02",
+    "2023-11-29",
+    "2024-02-19",
+    "2025-12-26",
+    "2026-06-23"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 4394326,
+    "uzLatn": -4394324
+   },
+   "counts": {
+    "headers": 8,
+    "clauses": 53,
+    "paragraphs": 224,
+    "chars": 106252
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "2d010c32a19adab010a9f0b1d0c314019bb53a5c84eea02bcc307110678bcd82"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.96
+}

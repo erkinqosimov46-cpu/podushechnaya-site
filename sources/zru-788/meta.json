@@ -1,0 +1,66 @@
+{
+ "slug": "zru-788",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6146009",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-788-сон 08.08.2022. О государственной гражданской службе",
+   "edition": "2024-09-21",
+   "editions": [
+    "2022-11-10",
+    "2023-11-29",
+    "2024-09-21"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6145972,
+    "uzLatn": -6145972
+   },
+   "counts": {
+    "headers": 10,
+    "clauses": 64,
+    "paragraphs": 349,
+    "chars": 119854
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "2fb3f1ea67524536b3018a9d1433589e9204e246654a5c178ec03b2a8e1951d6"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6145972",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-788-сон 08.08.2022. Давлат фуқаролик хизмати тўғрисида",
+   "edition": "2024-09-21",
+   "editions": [
+    "2022-11-10",
+    "2023-11-29",
+    "2024-09-21"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6146009,
+    "uzLatn": -6145972
+   },
+   "counts": {
+    "headers": 10,
+    "clauses": 64,
+    "paragraphs": 349,
+    "chars": 111798
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "0d492c0b7de4c70effae889392ae72bec8570230a7734523ce948b64a757daf7"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.07
+}

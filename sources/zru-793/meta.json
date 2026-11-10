@@ -1,0 +1,69 @@
+{
+ "slug": "zru-793",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6234906",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-793-сон 12.10.2022. Об электронной цифровой подписи",
+   "edition": "2026-07-25",
+   "editions": [
+    "2015-08-21",
+    "2018-04-19",
+    "2023-01-14",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6234904,
+    "uzLatn": -6234904
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 34,
+    "paragraphs": 204,
+    "chars": 72353
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 1,
+   "sha256": "3fbf9c71246db083c6333dce8f1137211b70dd2e1e18b26468d41fe0f3a2ecd9"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6234904",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-793-сон 12.10.2022. Электрон рақамли имзо тўғрисида",
+   "edition": "2026-07-25",
+   "editions": [
+    "2015-08-21",
+    "2018-04-19",
+    "2021-04-21",
+    "2023-01-14",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6234906,
+    "uzLatn": -6234904
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 34,
+    "paragraphs": 204,
+    "chars": 70836
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "e4e17b30e87d532ad451f2ea9684b584a7557569492a9d816c94aa2dd019b3dc"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.02
+}

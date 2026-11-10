@@ -1,0 +1,66 @@
+{
+ "slug": "pkm-383",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/3750088",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "383-сон 22.05.2018. Об упорядочении управления средствами Единого казначейского счета Министерства финансов Республики Узбекистан",
+   "edition": "2022-04-05",
+   "editions": [
+    "2018-05-24",
+    "2020-06-26",
+    "2022-04-05"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 3750090,
+    "uzLatn": -3750090
+   },
+   "counts": {
+    "headers": 4,
+    "clauses": 0,
+    "paragraphs": 62,
+    "chars": 32704
+   },
+   "cyrillicShare": 0.995,
+   "unofficialNotes": 14,
+   "sha256": "811c700129270b7cf5b53e51fda056ac7bc9d05690160ab754d5f4ba8baea56b"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/3750090",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "383-сон 22.05.2018. Ўзбекистон Республикаси Молия вазирлигининг Ягона ғазна ҳисобварағидаги маблағларни бошқаришни тартибга солиш тўғрисида",
+   "edition": "2022-04-05",
+   "editions": [
+    "2018-05-24",
+    "2020-06-26",
+    "2022-04-05"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 3750088,
+    "uzLatn": -3750090
+   },
+   "counts": {
+    "headers": 4,
+    "clauses": 0,
+    "paragraphs": 63,
+    "chars": 29884
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "0577fff6934ed435402d88415388b780b5b18aa73ca801e3227f6f8a1b2e336c"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.09
+}

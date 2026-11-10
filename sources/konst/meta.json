@@ -1,0 +1,66 @@
+{
+ "slug": "konst",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6445147",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "30.04.2023. Конституция Республики Узбекистан",
+   "edition": "2026-07-25",
+   "editions": [
+    "2023-05-01",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6445145,
+    "uzLatn": -6445145
+   },
+   "counts": {
+    "headers": 33,
+    "clauses": 155,
+    "paragraphs": 544,
+    "chars": 232310
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 6,
+   "sha256": "7eb46b65143b9839eff4538cbf8eaae2cbd6b1d76b40f9cef85643b4975a3c61"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6445145",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "30.04.2023. Ўзбекистон Республикаси Конституцияси",
+   "edition": "2026-07-25",
+   "editions": [
+    "2019-06-26",
+    "2021-04-20",
+    "2023-05-01",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6445147,
+    "uzLatn": -6445145
+   },
+   "counts": {
+    "headers": 33,
+    "clauses": 155,
+    "paragraphs": 544,
+    "chars": 230046
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "eb2b183fe82dea611f1e5863a746f9e720d7a83fc1beaf62f68ebfdf8f9bb4c3"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.01
+}

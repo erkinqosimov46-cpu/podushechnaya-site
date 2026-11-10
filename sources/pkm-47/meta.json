@@ -1,0 +1,58 @@
+{
+ "slug": "pkm-47",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6781794",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "47-сон 25.01.2024. О мерах по определению минимального размера средств, подлежащих хранению на Едином казначейском счете для покрытия первичных расходов бюджета",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6779569,
+    "uzLatn": -6779569
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1399
+   },
+   "cyrillicShare": 0.957,
+   "unofficialNotes": 0,
+   "sha256": "8b659ad0e7e85ef086b0be522c4f7ff3091bb6165d92539c370e3644911c000c"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6779569",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "47-сон 25.01.2024. Бюджетнинг бирламчи харажатларини қоплаш учун ягона ғазна ҳисобварағида сақланиши лозим бўлган маблағларнинг энг кам миқдорини аниқлаш чора-тадбирлари тўғрисида",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6781794,
+    "uzLatn": -6779569
+   },
+   "counts": {
+    "headers": 5,
+    "clauses": 0,
+    "paragraphs": 71,
+    "chars": 25630
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "9f35c32f92119a11fab8b0931214f8022e69ae9eac8542a26bc659171eedcfa2"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.05
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "pkm-245",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/2455646",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "245-сон 29.08.2014. Об утверждении нормативно-правовых актов по реализации Бюджетного кодекса Республики Узбекистан",
+   "edition": "2022-04-05",
+   "editions": [
+    "2014-09-08",
+    "2018-05-25",
+    "2022-04-05"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 2455644,
+    "uzLatn": -2455644
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 0,
+    "paragraphs": 78,
+    "chars": 39282
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "47b34c38064b8d0182349539514552d5f05b5729a3dd43237d3e442d69eaa79b"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/2455644",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "245-сон 29.08.2014. Ўзбекистон Республикаси Бюджет кодексини амалга ошириш бўйича норматив-ҳуқуқий ҳужжатларни тасдиқлаш тўғрисида",
+   "edition": "2022-04-05",
+   "editions": [
+    "2014-09-08",
+    "2018-05-25",
+    "2022-04-05"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 2455646,
+    "uzLatn": -2455644
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 0,
+    "paragraphs": 77,
+    "chars": 37966
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "31db0880dd2574ae6c904e8ff552fd2cf50734cb34f504ba043997578758e212"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.03
+}

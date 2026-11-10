@@ -1,0 +1,66 @@
+{
+ "slug": "pkm-865",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/7279140",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "865-сон 20.12.2024. Об утверждении стратегии совершенствования и развития системы государственных закупок на 2025-2027 годы",
+   "edition": "2026-07-21",
+   "editions": [
+    "2024-12-23",
+    "2026-07-21"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 7271145,
+    "uzLatn": -7271145
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1545
+   },
+   "cyrillicShare": 0.96,
+   "unofficialNotes": 0,
+   "sha256": "afca62a68674891fa9421880a0cfd6ea34dfdbc60b8056a984aca073ef57d7c3"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/7271145",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "865-сон 20.12.2024. 2025-2027 йилларда давлат харидлари тизимини такомиллаштириш ва ривожлантириш стратегиясини тасдиқлаш тўғрисида",
+   "edition": "2026-07-21",
+   "editions": [
+    "2023-09-12",
+    "2024-12-23",
+    "2026-07-21",
+    "2026-11-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 7279140,
+    "uzLatn": -7271145
+   },
+   "counts": {
+    "headers": 15,
+    "clauses": 0,
+    "paragraphs": 219,
+    "chars": 89338
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "0f8b666a2ad4d45b995b7f94396bd8bffd7ec080eb120de5b0ff5981a08acfb0"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.02
+}

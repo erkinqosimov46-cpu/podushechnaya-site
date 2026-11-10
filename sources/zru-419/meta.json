@@ -1,0 +1,81 @@
+{
+ "slug": "zru-419",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/3088013",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-419-сон 03.01.2017. О противодействии коррупции",
+   "edition": "2026-06-23",
+   "editions": [
+    "2017-01-04",
+    "2019-01-16",
+    "2019-02-19",
+    "2019-05-24",
+    "2021-04-21",
+    "2021-11-19",
+    "2023-08-09",
+    "2024-12-06",
+    "2025-02-26",
+    "2026-06-23"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 3088008,
+    "uzLatn": -3088008
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 41,
+    "paragraphs": 290,
+    "chars": 112703
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 20,
+   "sha256": "c0794fd871b7178cd66cf3ee030770bd0f68f56c26c0e65a4e61889a4e0cb42b"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/3088008",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-419-сон 03.01.2017. Коррупцияга қарши курашиш тўғрисида",
+   "edition": "2026-06-23",
+   "editions": [
+    "2017-01-04",
+    "2019-01-16",
+    "2019-02-19",
+    "2019-05-24",
+    "2019-05-29",
+    "2021-04-21",
+    "2021-11-19",
+    "2023-08-09",
+    "2024-12-06",
+    "2025-02-26",
+    "2026-06-23"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 3088013,
+    "uzLatn": -3088008
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 41,
+    "paragraphs": 290,
+    "chars": 119350
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "60f2571c5a8379928ee732468b5f65278d50a2340f5448d299921ecfce512b6e"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.94
+}

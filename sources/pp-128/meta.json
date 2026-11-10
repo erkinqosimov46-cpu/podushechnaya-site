@@ -1,0 +1,76 @@
+{
+ "slug": "pp-128",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/5858714",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ПП-128-сон 14.02.2022. О дальнейшем повышении эффективности расходов Государственного бюджета Республики Узбекистан и совершенствовании деятельности органов государственного финансового контроля",
+   "edition": "2025-10-07",
+   "editions": [
+    "2017-09-04",
+    "2022-02-15",
+    "2022-10-26",
+    "2023-01-01",
+    "2024-01-01",
+    "2024-07-08",
+    "2024-07-12",
+    "2025-10-07"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 5858712,
+    "uzLatn": -5858712
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 52,
+    "chars": 28056
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "ac59f8e5a4d7f38434009126bf0baabbb48d765aa628dd3950bb377134d69bb3"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/5858712",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ПҚ-128-сон 14.02.2022. Ўзбекистон Республикаси Давлат бюджети харажатларининг самарадорлигини янада ошириш ва давлат молиявий назорати органлари фаолиятини такомиллаштириш тўғрисида",
+   "edition": "2025-10-07",
+   "editions": [
+    "2017-09-04",
+    "2022-02-15",
+    "2022-10-26",
+    "2023-01-01",
+    "2024-01-01",
+    "2024-07-08",
+    "2024-07-12",
+    "2025-10-07"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 5858714,
+    "uzLatn": -5858712
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 52,
+    "chars": 56668
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 0,
+   "sha256": "1865b06da64d25af8f9849d50b8914ad59cce2b1b37200d2fdeb580379ed96a4"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "partial",
+ "ruToUzSize": 0.5
+}

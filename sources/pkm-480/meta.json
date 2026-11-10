@@ -1,0 +1,60 @@
+{
+ "slug": "pkm-480",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/8462946",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "480-сон 08.09.2026. О мерах по внедрению прозрачной системы оценки стоимости государственных закупок",
+   "edition": null,
+   "editions": [],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 8462556,
+    "uzLatn": -8462556
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1455
+   },
+   "cyrillicShare": 0.958,
+   "unofficialNotes": 0,
+   "sha256": "282bf84c91eb1bd861d645f53a62b64dbc18b10ef373724f4167fd360c85dfa5"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/8462556",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "480-сон 08.09.2026. Давлат харидлари қийматини баҳолашнинг шаффоф тизимини жорий этиш чора-тадбирлари тўғрисида",
+   "edition": null,
+   "editions": [
+    "2024-11-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 8462946,
+    "uzLatn": -8462556
+   },
+   "counts": {
+    "headers": 9,
+    "clauses": 0,
+    "paragraphs": 174,
+    "chars": 79219
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "5969a6165d58673e7bb97a3957327b0f3374f935dcdf4f9f99200a0a7c87506f"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.02
+}

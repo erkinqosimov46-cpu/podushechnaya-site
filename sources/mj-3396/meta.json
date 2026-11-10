@@ -1,0 +1,64 @@
+{
+ "slug": "mj-3396",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6278928",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3396-сон 02.11.2022. Об утверждении стандарта бюджетного учета Республики Узбекистан (СБУ № 14) «Отчет о движении денежных средств»",
+   "edition": "2023-08-01",
+   "editions": [
+    "2023-01-01",
+    "2023-08-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6272851,
+    "uzLatn": -6272851
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1548
+   },
+   "cyrillicShare": 0.96,
+   "unofficialNotes": 0,
+   "sha256": "31f092e16aab1123166277497e48c65208487ae54392431cb01b38101d650b7b"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6272851",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3396-сон 02.11.2022. Ўзбекистон Республикаси бюджет ҳисобининг стандарти (14-сонли БҲС) «Пул оқимлари тўғрисида ҳисобот»ни тасдиқлаш тўғрисида",
+   "edition": "2023-08-01",
+   "editions": [
+    "2023-01-01",
+    "2023-08-01"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6278928,
+    "uzLatn": -6272851
+   },
+   "counts": {
+    "headers": 15,
+    "clauses": 0,
+    "paragraphs": 132,
+    "chars": 48084
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "29c92ea236736549d0677a715787d72497780ff7dc7a8c4c21295e9f44325474"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.03
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "pkm-53",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/1145694",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "53-сон 20.03.2007. Об утверждении Положения о казначействе Министерства финансов Республики Узбекистан",
+   "edition": "2024-09-11",
+   "editions": [
+    "2007-03-20",
+    "2009-01-28",
+    "2011-04-01",
+    "2016-05-02",
+    "2017-12-31",
+    "2020-04-28",
+    "2022-04-05",
+    "2022-08-06",
+    "2024-09-11"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 1145689,
+    "uzLatn": -1145689
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 0,
+    "paragraphs": 79,
+    "chars": 34839
+   },
+   "cyrillicShare": 0.997,
+   "unofficialNotes": 4,
+   "sha256": "8ba9a9bc881b1c68b5a61fdcaf00d7ad62a95b040a65d5ae8107040cf10f7f98"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/1145689",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "53-сон 20.03.2007. Ўзбекистон Республикаси Молия вазирлигининг ғазначилиги тўғрисидаги низомни тасдиқлаш ҳақида",
+   "edition": "2024-09-11",
+   "editions": [
+    "2007-03-20",
+    "2009-01-28",
+    "2011-04-01",
+    "2016-05-02",
+    "2017-12-31",
+    "2020-04-28",
+    "2022-04-05",
+    "2022-08-06",
+    "2024-09-11"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 1145694,
+    "uzLatn": -1145689
+   },
+   "counts": {
+    "headers": 6,
+    "clauses": 0,
+    "paragraphs": 79,
+    "chars": 36206
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "12f7fa02b801e02bd77d03f420f830e2c2ff69ebaa8cb522784f2bf394db3c73"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.96
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "mj-2850",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/3081020",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "2850-сон 22.12.2016. Об утверждении Правил казначейского исполнения бюджетов бюджетной системы Республики Узбекистан",
+   "edition": "2026-10-22",
+   "editions": [
+    "2017-01-01",
+    "2018-01-01",
+    "2018-09-15",
+    "2021-07-28",
+    "2024-02-13",
+    "2025-10-23",
+    "2025-12-02",
+    "2026-09-29",
+    "2026-10-22"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 3081018,
+    "uzLatn": -3081018
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1623
+   },
+   "cyrillicShare": 0.962,
+   "unofficialNotes": 0,
+   "sha256": "9ea92957df634cacf26b775d3a12d10b36777f77ebc213134da161a9899a88f6"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/3081018",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "2850-сон 22.12.2016. Ўзбекистон Республикаси бюджет тизими бюджетларининг ғазна ижроси қоидаларини тасдиқлаш ҳақида",
+   "edition": "2026-10-22",
+   "editions": [
+    "2017-01-01",
+    "2018-01-01",
+    "2018-09-15",
+    "2020-04-13",
+    "2021-07-28",
+    "2024-02-13",
+    "2025-10-23",
+    "2025-12-02",
+    "2026-09-29",
+    "2026-10-22"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 3081020,
+    "uzLatn": -3081018
+   },
+   "counts": {
+    "headers": 24,
+    "clauses": 0,
+    "paragraphs": 450,
+    "chars": 317828
+   },
+   "cyrillicShare": 0.998,
+   "unofficialNotes": 0,
+   "sha256": "1985f9cd40f99155a0a32cbd33590531e364072a5690b3619d0e4c2ebb446212"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0.01
+}

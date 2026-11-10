@@ -1,0 +1,66 @@
+{
+ "slug": "z-611-ii",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/165074",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "611-II-сон 29.04.2004. Об электронном документообороте",
+   "edition": "2026-07-25",
+   "editions": [
+    "2004-05-20",
+    "2021-04-21",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 165079,
+    "uzLatn": -165079
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 19,
+    "paragraphs": 37,
+    "chars": 20724
+   },
+   "cyrillicShare": 0.995,
+   "unofficialNotes": 1,
+   "sha256": "f4ead4d912769ea0b3be5983cbbf7cbe1f3b131fe166d46f83aec8cb16a10e62"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/165079",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "611-II-сон 29.04.2004. Электрон ҳужжат айланиши тўғрисида",
+   "edition": "2026-07-25",
+   "editions": [
+    "2004-05-20",
+    "2021-04-21",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 165074,
+    "uzLatn": -165079
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 19,
+    "paragraphs": 37,
+    "chars": 22365
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "6e894de798e4ac9bc578d2e97ec6d8dc978582ecc014677a7e78ced14ea16cce"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.93
+}

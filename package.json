@@ -1,0 +1,14 @@
+{
+  "name": "gazna-qonunchilik",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Учебный справочник по законодательству для сотрудника Комитета казначейской службы",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch-sources": "node scripts/fetch-sources.mjs",
+    "acts-table": "node scripts/acts-table.mjs"
+  }
+}

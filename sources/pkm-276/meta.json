@@ -1,0 +1,80 @@
+{
+ "slug": "pkm-276",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/6026646",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "276-сон 20.05.2022. Об утверждении Положения о порядке организации и проведения процедур, связанных с осуществлением государственных закупок",
+   "edition": "2026-09-16",
+   "editions": [
+    "2022-05-20",
+    "2023-01-01",
+    "2023-07-22",
+    "2024-02-26",
+    "2025-02-19",
+    "2025-03-18",
+    "2025-10-22",
+    "2025-12-27",
+    "2026-07-21",
+    "2026-09-16"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 6026643,
+    "uzLatn": -6026643
+   },
+   "counts": {
+    "headers": 32,
+    "clauses": 0,
+    "paragraphs": 422,
+    "chars": 176883
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 17,
+   "sha256": "c4e75b69528bfd383b98f1f7f3764b42447cd84f2f6a05c74993819e330502e3"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/6026643",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "276-сон 20.05.2022. Давлат харидларини амалга ошириш билан боғлиқ тартиб-таомилларни ташкил этиш ва ўтказиш тартиби тўғрисидаги низомни тасдиқлаш ҳақида",
+   "edition": "2026-09-16",
+   "editions": [
+    "2022-05-20",
+    "2023-01-01",
+    "2023-07-22",
+    "2024-02-26",
+    "2025-02-19",
+    "2025-03-18",
+    "2025-10-22",
+    "2025-12-27",
+    "2026-07-21",
+    "2026-09-16"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 6026646,
+    "uzLatn": -6026643
+   },
+   "counts": {
+    "headers": 32,
+    "clauses": 0,
+    "paragraphs": 422,
+    "chars": 177415
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "d3b067b85f2bfdf4ae4705582d174f1177ef25ae51820496659e7dc2e2dcfddb"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1
+}

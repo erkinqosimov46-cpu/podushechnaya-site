@@ -1,0 +1,70 @@
+{
+ "slug": "zru-457",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/3492203",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ЗРУ-457-сон 08.01.2018. Об административных процедурах",
+   "edition": "2026-07-25",
+   "editions": [
+    "2019-01-10",
+    "2020-01-07",
+    "2021-04-21",
+    "2025-09-25",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 3492199,
+    "uzLatn": -3492199
+   },
+   "counts": {
+    "headers": 7,
+    "clauses": 88,
+    "paragraphs": 356,
+    "chars": 139585
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 2,
+   "sha256": "647300b38a9426af49fb122d997c60501238586741cef1ab56f154c1497ef9bf"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/3492199",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ЎРҚ-457-сон 08.01.2018. Маъмурий тартиб-таомиллар тўғрисида",
+   "edition": "2026-07-25",
+   "editions": [
+    "2019-01-10",
+    "2020-01-07",
+    "2021-04-21",
+    "2025-09-25",
+    "2026-07-25"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 3492203,
+    "uzLatn": -3492199
+   },
+   "counts": {
+    "headers": 7,
+    "clauses": 88,
+    "paragraphs": 356,
+    "chars": 147404
+   },
+   "cyrillicShare": 0.999,
+   "unofficialNotes": 0,
+   "sha256": "8b428eef03cf968285d2adbf83dffdea15b46f455fe0e040b039f16ead3eaaee"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 0.95
+}

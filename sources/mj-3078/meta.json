@@ -1,0 +1,80 @@
+{
+ "slug": "mj-3078",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/4021369",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "3078-сон 20.10.2018. Об утверждении «Плана единых счетов» Стандарта бюджетного учета Республики Узбекистан (СБУ № 2)",
+   "edition": "2026-08-28",
+   "editions": [
+    "2019-01-01",
+    "2019-12-25",
+    "2021-07-28",
+    "2023-07-17",
+    "2024-02-13",
+    "2024-03-18",
+    "2025-03-17",
+    "2025-09-20",
+    "2025-12-02",
+    "2026-08-28"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 4008308,
+    "uzLatn": -4008308
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 0,
+    "chars": 1533
+   },
+   "cyrillicShare": 0.96,
+   "unofficialNotes": 0,
+   "sha256": "7dc96a51f8342f399c134d686e61328d8612150c93cfd69fa53d16a94a7c8a91"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/4008308",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "3078-сон 20.10.2018. Ўзбекистон Республикаси бюджет ҳисобининг стандарти (2-сонли БҲС) «Ягона счётлар режаси»ни тасдиқлаш тўғрисида",
+   "edition": "2026-08-28",
+   "editions": [
+    "2019-01-01",
+    "2019-12-25",
+    "2021-07-28",
+    "2023-07-17",
+    "2024-02-13",
+    "2024-03-18",
+    "2025-03-17",
+    "2025-09-20",
+    "2025-12-02",
+    "2026-08-28"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 4021369,
+    "uzLatn": -4008308
+   },
+   "counts": {
+    "headers": 33,
+    "clauses": 0,
+    "paragraphs": 838,
+    "chars": 511935
+   },
+   "cyrillicShare": 1,
+   "unofficialNotes": 0,
+   "sha256": "d6b2213698c702b0c0ae5cb516b0a86a3452f70466e5d68e7ddbbd2bf5405b23"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "none",
+ "ruToUzSize": 0
+}

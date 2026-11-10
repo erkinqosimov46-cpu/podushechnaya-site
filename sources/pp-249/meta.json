@@ -1,0 +1,64 @@
+{
+ "slug": "pp-249",
+ "source": "lex.uz",
+ "fetchedAt": "2026-11-10",
+ "files": {
+  "ru": {
+   "url": "https://lex.uz/ru/docs/7010515",
+   "origin": "cache",
+   "lang": "ru",
+   "title": "ПП-249-сон 10.07.2024. О мерах по совершенствованию системы государственных закупок и стимулированию участия в ней субъектов малого предпринимательства",
+   "edition": "2025-12-27",
+   "editions": [
+    "2024-07-10",
+    "2025-12-27"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "uzCyrl": 7010370,
+    "uzLatn": -7010370
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 39,
+    "chars": 17627
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "3fb906ffe8548983e5b43ed57a598d052735762fb38c42ead01d370d841581a6"
+  },
+  "uz": {
+   "url": "https://lex.uz/docs/7010370",
+   "origin": "cache",
+   "lang": "uz",
+   "title": "ПҚ-249-сон 10.07.2024. Давлат харидлари тизимини такомиллаштириш ва унда кичик тадбиркорлик субъектлари иштирокини рағбатлантириш чора-тадбирлари тўғрисида",
+   "edition": "2025-12-27",
+   "editions": [
+    "2024-07-10",
+    "2025-12-27"
+   ],
+   "futureEditions": [],
+   "nextVersion": null,
+   "status": null,
+   "counterpart": {
+    "ru": 7010515,
+    "uzLatn": -7010370
+   },
+   "counts": {
+    "headers": 0,
+    "clauses": 0,
+    "paragraphs": 39,
+    "chars": 16532
+   },
+   "cyrillicShare": 0.996,
+   "unofficialNotes": 0,
+   "sha256": "6c6c40bbed9414598f55a6f5b1330b8048a24ab6665afea091cb212bff983e8b"
+  }
+ },
+ "problems": [],
+ "ruCoverage": "full",
+ "ruToUzSize": 1.07
+}
