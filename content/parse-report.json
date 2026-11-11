@@ -1,0 +1,3717 @@
+[
+ {
+  "slug": "mj-2850",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 24,
+    "articles": 0,
+    "points": 239,
+    "repealed": 27,
+    "appendices": 16,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет тизими бюджетларининг ғазна и"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 60,
+     "agree": 60,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "bk",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 35,
+    "articles": 179,
+    "points": 0,
+    "repealed": 4,
+    "appendices": 0,
+    "tocArticles": 179,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Бюджетный кодекс Республики Узбекистан"
+    ],
+    "clauseElements": 179,
+    "notes": {
+     "checked": 202,
+     "agree": 195,
+     "mismatches": [
+      "m3: абзац 18 в примечании, у нас 19",
+      "m95: часть 5 в примечании, у нас 6",
+      "m119: часть 2 в примечании, у нас 4",
+      "m127: часть 5 в примечании, у нас 6",
+      "m174: абзац 11 в примечании, у нас 12",
+      "m177: абзац 12 в примечании, у нас 13",
+      "m187: абзац 3 в примечании, у нас 5"
+     ]
+    },
+    "gaps": [
+     "текст: после 36 идёт 43",
+     "текст: после 52 идёт 60",
+     "текст: после 73 идёт 81"
+    ],
+    "gapCount": 3,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 35,
+    "articles": 179,
+    "points": 0,
+    "repealed": 3,
+    "appendices": 0,
+    "tocArticles": 179,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг Бюджет кодекси"
+    ],
+    "clauseElements": 179,
+    "notes": {
+     "checked": 158,
+     "agree": 145,
+     "mismatches": [
+      "m3: хатбоши 20 в примечании, у нас 19",
+      "m26: қисм 1 в примечании, у нас 2",
+      "m26: қисм 1 в примечании, у нас 2",
+      "m26: қисм 1 в примечании, у нас 2",
+      "m27: қисм 3 в примечании, у нас 2",
+      "m28: қисм 4 в примечании, у нас 6",
+      "m95: қисм 5 в примечании, у нас 6",
+      "m119: қисм 1 в примечании, у нас 2"
+     ]
+    },
+    "gaps": [
+     "текст: после 36 идёт 43",
+     "текст: после 52 идёт 60",
+     "текст: после 73 идёт 81",
+     "текст: после 143 идёт 145"
+    ],
+    "gapCount": 4,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [
+   "m144"
+  ],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "mj-2772",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 11,
+    "articles": 0,
+    "points": 48,
+    "repealed": 0,
+    "appendices": 9,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об утверждении Правил по ведению казначейских лицевых счетов"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 31,
+     "agree": 31,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 11,
+    "articles": 0,
+    "points": 48,
+    "repealed": 0,
+    "appendices": 9,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси Иқтисодиёт ва молия вазирлигининг ах"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 24,
+     "agree": 24,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "mj-1941",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 12,
+    "articles": 0,
+    "points": 60,
+    "repealed": 24,
+    "appendices": 5,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ОБ УТВЕРЖДЕНИИ ПОЛОЖЕНИЯ О ПОРЯДКЕ КАЗНАЧЕЙСКОГО ИСПОЛНЕНИЯ "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 14,
+     "agree": 14,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 25 идёт 31",
+     "a1: после 67 идёт 78"
+    ],
+    "gapCount": 2,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 12,
+    "articles": 0,
+    "points": 60,
+    "repealed": 34,
+    "appendices": 5,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "МУДОФАА МАЖМУИ ВА ҲУҚУҚНИ МУҲОФАЗА ҚИЛИШ ОРГАНЛАРИ МУАССАСАЛ"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 13,
+     "agree": 13,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 25 идёт 31"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [
+   "a1.b68",
+   "a1.b69",
+   "a1.b70",
+   "a1.b71",
+   "a1.b72",
+   "a1.b73",
+   "a1.b74",
+   "a1.b75",
+   "a1.b76",
+   "a1.b77"
+  ],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-120",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 24,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об утверждении Положения о порядке обращения взыскания по ис"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 4,
+     "agree": 4,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 24,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ижро ҳужжатлари бўйича ундирувни Ўзбекистон Республикасининг"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-245",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 6,
+    "articles": 0,
+    "points": 29,
+    "repealed": 1,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об утверждении нормативно-правовых актов по реализации Бюдже"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 7,
+     "agree": 7,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 6,
+    "articles": 0,
+    "points": 29,
+    "repealed": 1,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси Бюджет кодексини амалга ошириш бўйич"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 6,
+     "agree": 6,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-1105",
+  "langs": {
+   "ru": {
+    "coverage": "partial",
+    "mode": "articles",
+    "chapters": 4,
+    "articles": 17,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 17,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О Государственном бюджете Республики Узбекистан на 2026 год"
+    ],
+    "clauseElements": 17,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 4,
+    "articles": 17,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 10,
+    "tocArticles": 17,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "2026 йил учун Ўзбекистон Республикасининг Давлат бюджети тўғ"
+    ],
+    "clauseElements": 17,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pp-388",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 75,
+    "repealed": 0,
+    "appendices": 9,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг «2026 йил учун Ўзбекистон Респуб"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [
+     "a7: после 13 идёт 15"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "up-269",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 20,
+    "repealed": 1,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О мерах по реализации административных реформ Нового Узбекис"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 5,
+     "agree": 5,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 20,
+    "repealed": 1,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Янги Ўзбекистон маъмурий ислоҳотларини амалга ошириш чора-та"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 3,
+     "agree": 3,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "up-105",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 15,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О мерах по внедрению современных услуг Комитетом казначейско"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 15,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Иқтисодиёт ва молия вазирлиги ҳузуридаги Ғазначилик хизмати "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pp-594",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 10,
+    "repealed": 1,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 15,
+     "agree": 13,
+     "mismatches": [
+      "b2: абзац 8 в примечании, у нас 7",
+      "b2: абзац 11 в примечании, у нас 9"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 10,
+    "repealed": 1,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 9,
+     "agree": 7,
+     "mismatches": [
+      "b2: хатбоши 8 в примечании, у нас 7",
+      "b2: хатбоши 11 в примечании, у нас 9"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-53",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 6,
+    "articles": 0,
+    "points": 21,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ОБ УТВЕРЖДЕНИИ ПОЛОЖЕНИЯ О КАЗНАЧЕЙСТВЕ МИНИСТЕРСТВА ФИНАНСО"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 5,
+     "agree": 5,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 6,
+    "articles": 0,
+    "points": 21,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ЎЗБЕКИСТОН РЕСПУБЛИКАСИ МОЛИЯ ВАЗИРЛИГИНИНГ ҒАЗНАЧИЛИГИ ТЎҒР"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 8,
+     "agree": 8,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-383",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 31,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об упорядочении управления средствами Единого казначейского "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 31,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси Молия вазирлигининг Ягона ғазна ҳисо"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-47",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 5,
+    "articles": 0,
+    "points": 20,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Бюджетнинг бирламчи харажатларини қоплаш учун ягона ғазна ҳи"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-345",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 8,
+    "articles": 0,
+    "points": 49,
+    "repealed": 0,
+    "appendices": 9,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Таъсисчиси бюджет ташкилотлари бўлган унитар корхоналарга ға"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 2,
+     "agree": 2,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 13 идёт 15"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-573",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 6,
+    "articles": 0,
+    "points": 30,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси Иқтисодиёт ва молия вазирлиги ҳузури"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 3,
+     "agree": 3,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-1016",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 10,
+    "articles": 0,
+    "points": 57,
+    "repealed": 2,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О мерах по организации выпуска государственных казначейских "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 14,
+     "agree": 14,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 10,
+    "articles": 0,
+    "points": 57,
+    "repealed": 2,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг давлат ғазначилик мажбуриятлари "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 9,
+     "agree": 9,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "gazna-ustav",
+  "langs": {
+   "ru": {
+    "pages": "nizom: 18 абз., vazifalar: 50 абз."
+   },
+   "uz": {
+    "pages": "nizom: 12 абз., vazifalar: 50 абз."
+   }
+  }
+ },
+ {
+  "slug": "zru-1107",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 12,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 2,
+    "tocMissingSample": [
+     "О внесении изменений и дополнений в некоторые законодательны",
+     "Статья 165 2 . Отчет об исполнении бюджета Республики Карака"
+    ],
+    "clauseElements": 12,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 12,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 2,
+    "tocMissingSample": [
+     "Бюджет жараёни такомиллаштирилиши муносабати билан Ўзбекисто",
+     "165 2 -модда. Қорақалпоғистон Республикаси бюджетининг, вило"
+    ],
+    "clauseElements": 12,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-1141",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 9,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О внесении дополнений и изменений в некоторые законодательны"
+    ],
+    "clauseElements": 1,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 9,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ҳакамлик судлари фаолияти янада такомиллаштирилиши ҳамда бюд"
+    ],
+    "clauseElements": 1,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "gk-1",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 42,
+    "articles": 386,
+    "points": 0,
+    "repealed": 2,
+    "appendices": 0,
+    "tocArticles": 386,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ГРАЖДАНСКИЙ КОДЕКС РЕСПУБЛИКИ УЗБЕКИСТАН"
+    ],
+    "clauseElements": 386,
+    "notes": {
+     "checked": 95,
+     "agree": 93,
+     "mismatches": [
+      "m55: часть 4 в примечании, у нас 5",
+      "m55: часть 7 в примечании, у нас 8"
+     ]
+    },
+    "gaps": [
+     "текст: после 62 идёт 64",
+     "текст: после 69 идёт 73",
+     "текст: после 175 идёт 178",
+     "текст: после 178 идёт 180"
+    ],
+    "gapCount": 4,
+    "problems": [
+     "в тексте нет статей из объёма: 179"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 42,
+    "articles": 386,
+    "points": 0,
+    "repealed": 2,
+    "appendices": 0,
+    "tocArticles": 386,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ЎЗБЕКИСТОН РЕСПУБЛИКАСИНИНГ ФУҚАРОЛИК КОДЕКСИ"
+    ],
+    "clauseElements": 386,
+    "notes": {
+     "checked": 135,
+     "agree": 134,
+     "mismatches": [
+      "m55: қисм 4 в примечании, у нас 5"
+     ]
+    },
+    "gaps": [
+     "текст: после 62 идёт 64",
+     "текст: после 69 идёт 73",
+     "текст: после 175 идёт 178",
+     "текст: после 178 идёт 180"
+    ],
+    "gapCount": 4,
+    "problems": [
+     "в тексте нет статей из объёма: 179"
+    ]
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "gk-2",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 92,
+    "articles": 811,
+    "points": 0,
+    "repealed": 5,
+    "appendices": 0,
+    "tocArticles": 811,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ГРАЖДАНСКИЙ КОДЕКС РЕСПУБЛИКИ УЗБЕКИСТАН"
+    ],
+    "clauseElements": 811,
+    "notes": {
+     "checked": 94,
+     "agree": 92,
+     "mismatches": [
+      "m784: часть 2 в примечании, у нас 3",
+      "m1015: часть 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [
+     "текст: после 1051 идёт 1056",
+     "текст: после 1063 идёт 1065"
+    ],
+    "gapCount": 2,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 92,
+    "articles": 811,
+    "points": 0,
+    "repealed": 6,
+    "appendices": 0,
+    "tocArticles": 811,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ЎЗБЕКИСТОН РЕСПУБЛИКАСИНИНГ ФУҚАРОЛИК КОДЕКСИ"
+    ],
+    "clauseElements": 811,
+    "notes": {
+     "checked": 159,
+     "agree": 159,
+     "mismatches": []
+    },
+    "gaps": [
+     "текст: после 1051 идёт 1056"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [
+   "m1064"
+  ],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "z-670-i",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 5,
+    "articles": 36,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 36,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О договорно-правовой базе деятельности хозяйствующих субъект"
+    ],
+    "clauseElements": 36,
+    "notes": {
+     "checked": 10,
+     "agree": 10,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 5,
+    "articles": 36,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 36,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Хўжалик юритувчи субъектлар фаолиятининг шартномавий-ҳуқуқий"
+    ],
+    "clauseElements": 36,
+    "notes": {
+     "checked": 12,
+     "agree": 12,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "mj-2146",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 2,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 4,
+    "articles": 0,
+    "points": 203,
+    "repealed": 0,
+    "appendices": 10,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Бюджет таснифини қўллаш бўйича йўриқномани тасдиқлаш ҳақида"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 27,
+     "agree": 25,
+     "mismatches": [
+      "a1.b60: хатбоши 14 в примечании, у нас 13",
+      "a1.b200: хатбоши 4 в примечании, у нас 3"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-2634",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 14,
+    "articles": 0,
+    "points": 97,
+    "repealed": 1,
+    "appendices": 19,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об утверждении Положения о порядке составления, утверждения "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 80,
+     "agree": 80,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 25 идёт 29"
+    ],
+    "gapCount": 1,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 14,
+    "articles": 0,
+    "points": 97,
+    "repealed": 1,
+    "appendices": 19,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Бюджет ташкилотлари ва бюджет маблағлари олувчиларнинг хараж"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 57,
+     "agree": 56,
+     "mismatches": [
+      "a1.b3: хатбоши 3 в примечании, у нас 2"
+     ]
+    },
+    "gaps": [
+     "a1: после 25 идёт 29"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "mj-3341",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 23,
+    "articles": 0,
+    "points": 153,
+    "repealed": 2,
+    "appendices": 30,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат мақсадли жамғармаларининг харажатлар сметаси ҳамда мо"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 15,
+     "agree": 15,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 20 идёт 24"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3255",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 7,
+    "repealed": 0,
+    "appendices": 24,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси Давлат бюджетидан молиялаштириладига"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 3,
+     "agree": 3,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-2624",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 5,
+    "repealed": 0,
+    "appendices": 5,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 5,
+    "repealed": 0,
+    "appendices": 5,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-404",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 35,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 32,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О внесении изменений и дополнений в Закон Республики Узбекис"
+    ],
+    "clauseElements": 32,
+    "notes": {
+     "checked": 2,
+     "agree": 2,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 35,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 32,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 32,
+    "notes": {
+     "checked": 5,
+     "agree": 5,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "mj-2169",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 3,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 12,
+    "articles": 0,
+    "points": 189,
+    "repealed": 185,
+    "appendices": 66,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "БЮДЖЕТ ТАШКИЛОТЛАРИДА БУХГАЛТЕРИЯ ҲИСОБИ ТЎҒРИСИДАГИ ЙЎРИҚНО"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 13,
+     "agree": 13,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 297 идёт 309",
+     "a1: после 317 идёт 321",
+     "a1: после 350 идёт 360"
+    ],
+    "gapCount": 3,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3797",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 17,
+    "articles": 0,
+    "points": 56,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет ҳисобининг стандарти (1-сонли"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3078",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 33,
+    "articles": 0,
+    "points": 358,
+    "repealed": 6,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет ҳисобининг стандарти (2-сонли"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 61,
+     "agree": 61,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3124",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 19,
+    "articles": 0,
+    "points": 175,
+    "repealed": 2,
+    "appendices": 20,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет ҳисобининг стандарти (3-сонли"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 27,
+     "agree": 25,
+     "mismatches": [
+      "a1.b114: хатбоши 4 в примечании, у нас 3",
+      "a1.b114: хатбоши 8 в примечании, у нас 7"
+     ]
+    },
+    "gaps": [
+     "a1: после 157 идёт 159"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3361",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 5,
+    "articles": 0,
+    "points": 16,
+    "repealed": 0,
+    "appendices": 6,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет ҳисобининг стандарти (13-сонл"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3396",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 15,
+    "articles": 0,
+    "points": 54,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет ҳисобининг стандарти (14-сонл"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "mj-3857",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 75,
+    "articles": 0,
+    "points": 184,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси бюджет ҳисобининг стандарти (19-сонл"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "zru-684",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 14,
+    "articles": 99,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 99,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О государственных закупках"
+    ],
+    "clauseElements": 99,
+    "notes": {
+     "checked": 33,
+     "agree": 32,
+     "mismatches": [
+      "m36: абзац 5 в примечании, у нас 6"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 14,
+    "articles": 99,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 99,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат харидлари тўғрисида"
+    ],
+    "clauseElements": 99,
+    "notes": {
+     "checked": 25,
+     "agree": 23,
+     "mismatches": [
+      "m36: хатбоши 5 в примечании, у нас 6",
+      "m69: қисм 9 в примечании, у нас 8"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-276",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 32,
+    "articles": 0,
+    "points": 225,
+    "repealed": 0,
+    "appendices": 6,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ОБ УТВЕРЖДЕНИИ ПОЛОЖЕНИЯ О ПОРЯДКЕ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ "
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 2,
+     "agree": 2,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 196 идёт 206"
+    ],
+    "gapCount": 1,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 32,
+    "articles": 0,
+    "points": 225,
+    "repealed": 9,
+    "appendices": 6,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат харидларини амалга ошириш билан боғлиқ тартиб-таомилл"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 8,
+     "agree": 7,
+     "mismatches": [
+      "a1.b31: хатбоши 3 в примечании, у нас 2"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [
+   "a1.b197",
+   "a1.b198",
+   "a1.b199",
+   "a1.b200",
+   "a1.b201",
+   "a1.b202",
+   "a1.b203",
+   "a1.b204",
+   "a1.b205"
+  ],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "up-259",
+  "langs": {
+   "ru": {
+    "coverage": "partial",
+    "mode": "points",
+    "chapters": 7,
+    "articles": 0,
+    "points": 66,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об очередных мерах по обеспечению конкурентной среды и прозр"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [
+     "a1: после 2 идёт 4"
+    ],
+    "gapCount": 1,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 7,
+    "articles": 0,
+    "points": 93,
+    "repealed": 0,
+    "appendices": 6,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат харидлари тизимида рақобат муҳити ва шаффофликни таъм"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [
+     "a4: после 2 идёт 4"
+    ],
+    "gapCount": 1,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pp-249",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 13,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О мерах по совершенствованию системы государственных закупок"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 13,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат харидлари тизимини такомиллаштириш ва унда кичик тадб"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "pkm-865",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 15,
+    "articles": 0,
+    "points": 56,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "2025 — 2027 йилларда давлат харидлари тизимини такомиллаштир"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 2,
+     "agree": 2,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-480",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 8,
+    "articles": 0,
+    "points": 64,
+    "repealed": 0,
+    "appendices": 8,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат харидлари қийматини баҳолашнинг шаффоф тизимини жорий"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-510",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 5,
+    "articles": 0,
+    "points": 47,
+    "repealed": 0,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат харидларини «таклиф сўрови» асосида амалга оширишга р"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-210",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 9,
+    "articles": 0,
+    "points": 72,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "2025 — 2030 йилларда давлат молиясини бошқариш тизимини тако"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-279",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 19,
+    "articles": 0,
+    "points": 84,
+    "repealed": 0,
+    "appendices": 6,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат молияси соҳасида хавфларни бошқариш тизимини самарали"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pp-128",
+  "langs": {
+   "ru": {
+    "coverage": "partial",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 17,
+    "repealed": 4,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О дальнейшем повышении эффективности расходов Государственно"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 7,
+     "agree": 6,
+     "mismatches": [
+      "b13: абзац 6 в примечании, у нас 5"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 17,
+    "repealed": 4,
+    "appendices": 3,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикаси Давлат бюджети харажатларининг самар"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 4,
+     "agree": 4,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "zru-836",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 10,
+    "articles": 60,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 60,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О государственном долге"
+    ],
+    "clauseElements": 61,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 10,
+    "articles": 60,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 60,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат қарзи тўғрисида"
+    ],
+    "clauseElements": 61,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-546",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 8,
+    "articles": 53,
+    "points": 0,
+    "repealed": 1,
+    "appendices": 0,
+    "tocArticles": 53,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О Счетной палате Республики Узбекистан"
+    ],
+    "clauseElements": 53,
+    "notes": {
+     "checked": 39,
+     "agree": 33,
+     "mismatches": [
+      "m4: абзац 4 в примечании, у нас 6",
+      "m4: абзац 5 в примечании, у нас 7",
+      "m30: абзац 11 в примечании, у нас 12",
+      "m30: абзац 12 в примечании, у нас 13",
+      "m30: абзац 18 в примечании, у нас 19",
+      "m30: абзац 20 в примечании, у нас 21"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 8,
+    "articles": 53,
+    "points": 0,
+    "repealed": 1,
+    "appendices": 0,
+    "tocArticles": 53,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг Ҳисоб палатаси тўғрисида"
+    ],
+    "clauseElements": 53,
+    "notes": {
+     "checked": 28,
+     "agree": 24,
+     "mismatches": [
+      "m4: хатбоши 5 в примечании, у нас 7",
+      "m4: хатбоши 8 в примечании, у нас 10",
+      "m30: хатбоши 11 в примечании, у нас 12",
+      "m30: хатбоши 18 в примечании, у нас 19"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "up-252",
+  "langs": {
+   "ru": {
+    "coverage": "partial",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 35,
+    "repealed": 0,
+    "appendices": 2,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О дополнительных мерах дальнейшего совершенствования деятель"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [
+     "текст: после 6 идёт 10",
+     "текст: после 10 идёт 13"
+    ],
+    "gapCount": 2,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 82,
+    "repealed": 0,
+    "appendices": 5,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат аудити ва молиявий назорати фаолиятини янада такомилл"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "pkm-129",
+  "langs": {
+   "ru": {
+    "coverage": "none",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 0,
+    "tocMissing": 0,
+    "tocMissingSample": [],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "неизвестный класс COMMENT_FOR_WARNING"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 0,
+    "articles": 0,
+    "points": 36,
+    "repealed": 4,
+    "appendices": 1,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Молия вазирлиги ҳузурида Давлат молиявий назорати инспекцияс"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "koao",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 46,
+    "articles": 665,
+    "points": 0,
+    "repealed": 17,
+    "appendices": 0,
+    "tocArticles": 665,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Кодекс Республики Узбекистан об административной ответственн"
+    ],
+    "clauseElements": 665,
+    "notes": {
+     "checked": 143,
+     "agree": 132,
+     "mismatches": [
+      "m17_1: часть 1 в примечании, у нас 2",
+      "m17_1: часть 2 в примечании, у нас 3",
+      "m17_1: часть 5 в примечании, у нас 6",
+      "m34: часть 4 в примечании, у нас 5",
+      "m61: часть 3 в примечании, у нас 4",
+      "m125: часть 8 в примечании, у нас 9",
+      "m159: часть 5 в примечании, у нас 4",
+      "m164: часть 7 в примечании, у нас 8"
+     ]
+    },
+    "gaps": [
+     "текст: после 221 идёт 223",
+     "текст: после 252 идёт 254",
+     "текст: после 319 идёт 321"
+    ],
+    "gapCount": 3,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 47,
+    "articles": 674,
+    "points": 0,
+    "repealed": 19,
+    "appendices": 0,
+    "tocArticles": 674,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг Маъмурий жавобгарлик тўғрисидаги"
+    ],
+    "clauseElements": 674,
+    "notes": {
+     "checked": 140,
+     "agree": 125,
+     "mismatches": [
+      "m9: қисм 4 в примечании, у нас 5",
+      "m17_1: қисм 1 в примечании, у нас 2",
+      "m17_1: қисм 5 в примечании, у нас 6",
+      "m34: қисм 4 в примечании, у нас 5",
+      "m36: қисм 3 в примечании, у нас 4",
+      "m61: қисм 3 в примечании, у нас 4",
+      "m125: қисм 8 в примечании, у нас 9",
+      "m249_1: қисм 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [
+     "текст: после 221 идёт 223",
+     "текст: после 252 идёт 254"
+    ],
+    "gapCount": 2,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [
+   "m241_11",
+   "m320"
+  ],
+  "onlyRu": [],
+  "onlyUz": [
+   "m16_1",
+   "m184_5",
+   "m189_3",
+   "m198_10",
+   "s4.ch23_3",
+   "m313_10",
+   "m313_11",
+   "m313_12",
+   "m313_13",
+   "m313_14"
+  ]
+ },
+ {
+  "slug": "uk",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 58,
+    "articles": 406,
+    "points": 0,
+    "repealed": 15,
+    "appendices": 0,
+    "tocArticles": 406,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "УГОЛОВНЫЙ КОДЕКС РЕСПУБЛИКИ УЗБЕКИСТАН"
+    ],
+    "clauseElements": 407,
+    "notes": {
+     "checked": 89,
+     "agree": 84,
+     "mismatches": [
+      "m50: часть 6 в примечании, у нас 8",
+      "m73: часть 4 в примечании, у нас 3",
+      "m73: часть 4 в примечании, у нас 3",
+      "m244: часть 3 в примечании, у нас 5",
+      "m285: часть 2 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": [
+     "повтор ID cp1.s1 (#2)",
+     "повтор ID cp1.s2 (#2)",
+     "повтор ID cp1.s3 (#2)",
+     "повтор ID cp1.s4 (#2)",
+     "повтор ID cp1.s5 (#2)",
+     "повтор ID cp1.s6 (#2)",
+     "повтор ID cp1.s7 (#2)"
+    ]
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 58,
+    "articles": 406,
+    "points": 0,
+    "repealed": 14,
+    "appendices": 0,
+    "tocArticles": 406,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ЎЗБЕКИСТОН РЕСПУБЛИКАСИНИНГ ЖИНОЯТ КОДЕКСИ"
+    ],
+    "clauseElements": 408,
+    "notes": {
+     "checked": 75,
+     "agree": 73,
+     "mismatches": [
+      "m50: қисм 5 в примечании, у нас 7",
+      "m244: қисм 3 в примечании, у нас 5"
+     ]
+    },
+    "gaps": [
+     "текст: после 186 идёт 188"
+    ],
+    "gapCount": 1,
+    "problems": [
+     "повтор ID cp1.s1 (#2)",
+     "повтор ID cp1.s2 (#2)",
+     "повтор ID cp1.s3 (#2)",
+     "повтор ID cp1.s4 (#2)",
+     "повтор ID cp1.s5 (#2)",
+     "повтор ID cp1.s6 (#2)",
+     "повтор ID cp1.s7 (#2)"
+    ]
+   }
+  },
+  "repealedOnlyRu": [
+   "m187"
+  ],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-788",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 10,
+    "articles": 64,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 64,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О государственной гражданской службе"
+    ],
+    "clauseElements": 64,
+    "notes": {
+     "checked": 1,
+     "agree": 1,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 10,
+    "articles": 64,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 64,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат фуқаролик хизмати тўғрисида"
+    ],
+    "clauseElements": 64,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "up-95",
+  "langs": {
+   "ru": {
+    "coverage": "partial",
+    "mode": "points",
+    "chapters": 19,
+    "articles": 0,
+    "points": 33,
+    "repealed": 1,
+    "appendices": 4,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О мерах по организации государственной гражданской службы на"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 2,
+     "agree": 2,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "points",
+    "chapters": 49,
+    "articles": 0,
+    "points": 191,
+    "repealed": 1,
+    "appendices": 19,
+    "tocArticles": 0,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат фуқаролик хизматини янги ёндашувлар асосида ташкил эт"
+    ],
+    "clauseElements": 0,
+    "notes": {
+     "checked": 5,
+     "agree": 5,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  }
+ },
+ {
+  "slug": "zru-419",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 6,
+    "articles": 41,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 41,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О противодействии коррупции"
+    ],
+    "clauseElements": 41,
+    "notes": {
+     "checked": 9,
+     "agree": 9,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 6,
+    "articles": 41,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 41,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Коррупцияга қарши курашиш тўғрисида"
+    ],
+    "clauseElements": 41,
+    "notes": {
+     "checked": 11,
+     "agree": 11,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-931",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 5,
+    "articles": 33,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 33,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О конфликте интересов"
+    ],
+    "clauseElements": 34,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 5,
+    "articles": 33,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 33,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Манфаатлар тўқнашуви тўғрисида"
+    ],
+    "clauseElements": 34,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "tk",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 92,
+    "articles": 593,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 593,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Трудовой кодекс Республики Узбекистан"
+    ],
+    "clauseElements": 593,
+    "notes": {
+     "checked": 50,
+     "agree": 49,
+     "mismatches": [
+      "m51: часть 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 92,
+    "articles": 593,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 593,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг Меҳнат кодекси"
+    ],
+    "clauseElements": 593,
+    "notes": {
+     "checked": 38,
+     "agree": 37,
+     "mismatches": [
+      "m273: қисм 4 в примечании, у нас 5"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "konst",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 33,
+    "articles": 155,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 155,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "КОНСТИТУЦИЯ РЕСПУБЛИКИ УЗБЕКИСТАН"
+    ],
+    "clauseElements": 155,
+    "notes": {
+     "checked": 4,
+     "agree": 3,
+     "mismatches": [
+      "m109: часть 1 в примечании, у нас 2"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 33,
+    "articles": 155,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 155,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ЎЗБЕКИСТОН РЕСПУБЛИКАСИ КОНСТИТУЦИЯСИ"
+    ],
+    "clauseElements": 155,
+    "notes": {
+     "checked": 3,
+     "agree": 2,
+     "mismatches": [
+      "m109: қисм 1 в примечании, у нас 2"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "z-258-ii",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 14,
+    "articles": 118,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 118,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об исполнении судебных актов и актов иных органов"
+    ],
+    "clauseElements": 118,
+    "notes": {
+     "checked": 97,
+     "agree": 89,
+     "mismatches": [
+      "m22_1: часть 2 в примечании, у нас 3",
+      "m22_1: часть 7 в примечании, у нас 9",
+      "m22_1: часть 10 в примечании, у нас 12",
+      "m22_1: часть 12 в примечании, у нас 13",
+      "m30: часть 6 в примечании, у нас 3",
+      "m32_1: часть 1 в примечании, у нас 2",
+      "m55: часть 3 в примечании, у нас 2",
+      "m62: часть 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 14,
+    "articles": 118,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 118,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Суд ҳужжатлари ва бошқа органлар ҳужжатларини ижро этиш тўғр"
+    ],
+    "clauseElements": 118,
+    "notes": {
+     "checked": 92,
+     "agree": 89,
+     "mismatches": [
+      "m7: қисм 3 в примечании, у нас 4",
+      "m22_1: қисм 10 в примечании, у нас 12",
+      "m62: қисм 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-578",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 12,
+    "articles": 63,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 63,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О платежах и платежных системах"
+    ],
+    "clauseElements": 63,
+    "notes": {
+     "checked": 8,
+     "agree": 8,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 12,
+    "articles": 63,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 63,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Тўловлар ва тўлов тизимлари тўғрисида"
+    ],
+    "clauseElements": 63,
+    "notes": {
+     "checked": 11,
+     "agree": 11,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-793",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 6,
+    "articles": 34,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 34,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об электронной цифровой подписи"
+    ],
+    "clauseElements": 34,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 6,
+    "articles": 34,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 34,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Электрон рақамли имзо тўғрисида"
+    ],
+    "clauseElements": 34,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "z-611-ii",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 19,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 19,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ОБ ЭЛЕКТРОННОМ ДОКУМЕНТООБОРОТЕ"
+    ],
+    "clauseElements": 19,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 0,
+    "articles": 19,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 19,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "ЭЛЕКТРОН ҲУЖЖАТ АЙЛАНИШИ ТЎҒРИСИДА"
+    ],
+    "clauseElements": 19,
+    "notes": {
+     "checked": 3,
+     "agree": 3,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-445",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 6,
+    "articles": 42,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 39,
+    "tocMissing": 2,
+    "tocMissingSample": [
+     "О внесении изменений и дополнений в Закон Республики Узбекис",
+     "Закон Республики Узбекистан Об обращениях физических и юриди"
+    ],
+    "clauseElements": 39,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 6,
+    "articles": 42,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 39,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Ўзбекистон Республикасининг Қонуни Жисмоний ва юридик шахсла"
+    ],
+    "clauseElements": 39,
+    "notes": {
+     "checked": 5,
+     "agree": 5,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-457",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 7,
+    "articles": 88,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 88,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об административных процедурах"
+    ],
+    "clauseElements": 88,
+    "notes": {
+     "checked": 2,
+     "agree": 1,
+     "mismatches": [
+      "m3: часть 2 в примечании, у нас 3"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 7,
+    "articles": 88,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 88,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Маъмурий тартиб-таомиллар тўғрисида"
+    ],
+    "clauseElements": 88,
+    "notes": {
+     "checked": 30,
+     "agree": 29,
+     "mismatches": [
+      "m3: қисм 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-369",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 4,
+    "articles": 24,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 24,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Об открытости деятельности органов государственной власти и "
+    ],
+    "clauseElements": 24,
+    "notes": {
+     "checked": 0,
+     "agree": 0,
+     "mismatches": []
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 4,
+    "articles": 24,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 0,
+    "tocArticles": 24,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Давлат ҳокимияти ва бошқаруви органлари фаолиятининг очиқлиг"
+    ],
+    "clauseElements": 24,
+    "notes": {
+     "checked": 6,
+     "agree": 5,
+     "mismatches": [
+      "m13: қисм 3 в примечании, у нас 4"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ },
+ {
+  "slug": "zru-682",
+  "langs": {
+   "ru": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 25,
+    "articles": 61,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 61,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "О нормативно-правовых актах"
+    ],
+    "clauseElements": 61,
+    "notes": {
+     "checked": 34,
+     "agree": 31,
+     "mismatches": [
+      "m6: абзац 7 в примечании, у нас 8",
+      "m36: абзац 7 в примечании, у нас 8",
+      "m36: абзац 8 в примечании, у нас 10"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   },
+   "uz": {
+    "coverage": "full",
+    "mode": "articles",
+    "chapters": 25,
+    "articles": 61,
+    "points": 0,
+    "repealed": 0,
+    "appendices": 1,
+    "tocArticles": 61,
+    "tocMissing": 1,
+    "tocMissingSample": [
+     "Норматив-ҳуқуқий ҳужжатлар тўғрисида"
+    ],
+    "clauseElements": 61,
+    "notes": {
+     "checked": 20,
+     "agree": 19,
+     "mismatches": [
+      "m36: хатбоши 8 в примечании, у нас 10"
+     ]
+    },
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
+   }
+  },
+  "repealedOnlyRu": [],
+  "repealedOnlyUz": [],
+  "onlyRu": [],
+  "onlyUz": []
+ }
+]

@@ -9,6 +9,10 @@
   },
   "scripts": {
     "fetch-sources": "node scripts/fetch-sources.mjs",
-    "acts-table": "node scripts/acts-table.mjs"
+    "acts-table": "node scripts/acts-table.mjs",
+    "parse": "node scripts/parse-sources.mjs"
+  },
+  "devDependencies": {
+    "node-html-parser": "^6.1.13"
   }
 }

@@ -11,3 +11,4 @@ desktop.ini
 
 # Node (на случай, если появится)
 node_modules/
+.dev/
