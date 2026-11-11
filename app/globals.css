@@ -1,0 +1,142 @@
+@import '@fontsource/golos-text/400.css';
+@import '@fontsource/golos-text/500.css';
+@import '@fontsource/golos-text/600.css';
+@import '@fontsource/golos-text/700.css';
+@import '@fontsource/pt-serif/400.css';
+@import '@fontsource/pt-serif/400-italic.css';
+@import '@fontsource/pt-serif/700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Палитра «казначейская книга»: бумага реестра, чернила, зелёная печать казначейства, красный штамп. */
+:root {
+  --paper: 244 240 229;
+  --sheet: 252 250 244;
+  --ink: 28 36 32;
+  --muted: 101 108 100;
+  --rule: 214 207 189;
+  --seal: 14 92 67;
+  --sealink: 252 250 244;
+  --stamp: 168 56 42;
+  --amber: 156 104 22;
+  --law-size: 17px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: 17 21 19;
+    --sheet: 25 31 28;
+    --ink: 232 227 213;
+    --muted: 150 156 146;
+    --rule: 54 63 58;
+    --seal: 111 191 154;
+    --sealink: 14 30 23;
+    --stamp: 232 122 104;
+    --amber: 222 172 92;
+    color-scheme: dark;
+  }
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  background: rgb(var(--paper));
+}
+
+body {
+  @apply font-ui text-ink bg-paper antialiased;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+  min-height: 100dvh;
+}
+
+/* Поля ввода — не меньше 16px, чтобы iOS не увеличивал экран. */
+input,
+textarea,
+select {
+  font-size: 16px !important;
+}
+
+/* Официальный текст нормы */
+.law {
+  font-family: 'PT Serif', Georgia, serif;
+  font-size: var(--law-size);
+  line-height: 1.58;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+.law p + p {
+  margin-top: 0.55em;
+}
+.law b {
+  font-weight: 700;
+}
+.law a {
+  color: rgb(var(--seal));
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.law sup {
+  font-size: 0.7em;
+}
+.law .table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 0.6em 0;
+  border: 1px solid rgb(var(--rule));
+  border-radius: 6px;
+  max-width: 100%;
+}
+.law table {
+  border-collapse: collapse;
+  font-size: 0.8em;
+  line-height: 1.35;
+  min-width: 100%;
+}
+.law td,
+.law th {
+  border: 1px solid rgb(var(--rule));
+  padding: 4px 6px;
+  vertical-align: top;
+  min-width: 4.5em;
+  overflow-wrap: normal;
+  hyphens: manual;
+}
+
+/* Линейки реестра на заголовке нормы */
+.ledger {
+  background-image: repeating-linear-gradient(to bottom, transparent 0 27px, rgb(var(--rule) / 0.55) 27px 28px);
+}
+
+.stamp {
+  @apply inline-flex items-center rounded-[4px] border-[1.5px] px-1.5 text-[11px] font-semibold uppercase tracking-wide leading-[18px];
+  border-color: currentColor;
+}
+
+.safe-top {
+  padding-top: env(safe-area-inset-top);
+}
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.tap {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+mark {
+  background: rgb(var(--amber) / 0.28);
+  color: inherit;
+  border-radius: 2px;
+}

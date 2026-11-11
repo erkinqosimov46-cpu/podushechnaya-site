@@ -12,3 +12,8 @@ desktop.ini
 # Node (на случай, если появится)
 node_modules/
 .dev/
+.next/
+out/
+public/data/
+next-env.d.ts
+*.tsbuildinfo

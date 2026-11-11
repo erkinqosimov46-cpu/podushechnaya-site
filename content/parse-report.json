@@ -1092,7 +1092,7 @@
     "chapters": 42,
     "articles": 386,
     "points": 0,
-    "repealed": 2,
+    "repealed": 9,
     "appendices": 0,
     "tocArticles": 386,
     "tocMissing": 1,
@@ -1108,16 +1108,9 @@
       "m55: часть 7 в примечании, у нас 8"
      ]
     },
-    "gaps": [
-     "текст: после 62 идёт 64",
-     "текст: после 69 идёт 73",
-     "текст: после 175 идёт 178",
-     "текст: после 178 идёт 180"
-    ],
-    "gapCount": 4,
-    "problems": [
-     "в тексте нет статей из объёма: 179"
-    ]
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
    },
    "uz": {
     "coverage": "full",
@@ -1125,7 +1118,7 @@
     "chapters": 42,
     "articles": 386,
     "points": 0,
-    "repealed": 2,
+    "repealed": 9,
     "appendices": 0,
     "tocArticles": 386,
     "tocMissing": 1,
@@ -1140,16 +1133,9 @@
       "m55: қисм 4 в примечании, у нас 5"
      ]
     },
-    "gaps": [
-     "текст: после 62 идёт 64",
-     "текст: после 69 идёт 73",
-     "текст: после 175 идёт 178",
-     "текст: после 178 идёт 180"
-    ],
-    "gapCount": 4,
-    "problems": [
-     "в тексте нет статей из объёма: 179"
-    ]
+    "gaps": [],
+    "gapCount": 0,
+    "problems": []
    }
   },
   "repealedOnlyRu": [],
@@ -2745,7 +2731,7 @@
     "chapters": 46,
     "articles": 665,
     "points": 0,
-    "repealed": 17,
+    "repealed": 20,
     "appendices": 0,
     "tocArticles": 665,
     "tocMissing": 1,
@@ -2781,7 +2767,7 @@
     "chapters": 47,
     "articles": 674,
     "points": 0,
-    "repealed": 19,
+    "repealed": 22,
     "appendices": 0,
     "tocArticles": 674,
     "tocMissing": 1,
@@ -2860,15 +2846,7 @@
     },
     "gaps": [],
     "gapCount": 0,
-    "problems": [
-     "повтор ID cp1.s1 (#2)",
-     "повтор ID cp1.s2 (#2)",
-     "повтор ID cp1.s3 (#2)",
-     "повтор ID cp1.s4 (#2)",
-     "повтор ID cp1.s5 (#2)",
-     "повтор ID cp1.s6 (#2)",
-     "повтор ID cp1.s7 (#2)"
-    ]
+    "problems": []
    },
    "uz": {
     "coverage": "full",
@@ -2896,15 +2874,7 @@
      "текст: после 186 идёт 188"
     ],
     "gapCount": 1,
-    "problems": [
-     "повтор ID cp1.s1 (#2)",
-     "повтор ID cp1.s2 (#2)",
-     "повтор ID cp1.s3 (#2)",
-     "повтор ID cp1.s4 (#2)",
-     "повтор ID cp1.s5 (#2)",
-     "повтор ID cp1.s6 (#2)",
-     "повтор ID cp1.s7 (#2)"
-    ]
+    "problems": []
    }
   },
   "repealedOnlyRu": [

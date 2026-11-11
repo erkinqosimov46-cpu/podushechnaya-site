@@ -98,7 +98,7 @@ const tidy = (html) =>
 
 /** Плоский текст; верхний индекс → ^N (175<sup>1</sup> → 175^1). */
 const plain = (html) =>
-  decode(html.replace(/<sup>\s*([^<]*?)\s*<\/sup>/g, '^$1').replace(/<br>/g, ' ').replace(/<[^>]+>/g, ''))
+  decode(html.replace(/[\u200e\u200f\u200b]/g, '').replace(/<sup>\s*([^<]*?)\s*<\/sup>/g, '^$1').replace(/<br>/g, ' ').replace(/<[^>]+>/g, ''))
     .replace(/\s+/g, ' ')
     .trim();
 
@@ -191,9 +191,11 @@ function repealedLeaves(text, lang) {
   if (lang === 'ru') {
     if ((m = text.match(/^\((?:пункт|статья)\s+(\d+(?:\^\d+)?)\s+(?:утратил|утратила|исключен|исключена)(?![а-яё])/i))) return [m[1]];
     if ((m = text.match(/^\((?:пункты|статьи)\s+(\d+)\s*[—–-]\s*(\d+)\s+(?:утратили|исключены)(?![а-яё])/i))) return range(+m[1], +m[2]);
+    if ((m = text.match(/^\(дата утраты силы (?:статьи|пункта)\s+(\d+(?:\^\d+)?)\s/i))) return [m[1]];
     if ((m = text.match(/^\((?:пункты|статьи)\s+(\d+)\s+и\s+(\d+)\s+(?:утратили|исключены)(?![а-яё])/i))) return [m[1], m[2]];
     return null;
   }
+  if ((m = text.match(/асосан\s+(\d+(?:\^\d+)?)\s*-\s*(?:модда|банд)нинг\s+ўз\s+кучини\s+йўқот/))) return [m[1]];
   if (!/(ўз кучини йўқотган|чиқарилган)/.test(text)) return null;
   if ((m = text.match(/^\(\s*(\d+(?:\^\d+)?)\s*-\s*(?:банд|модда)\s/)) && !/хатбоши|қисми|кичик банд/.test(text.slice(0, 60))) return [m[1]];
   if ((m = text.match(/^\(\s*(\d+)\s*[—–-]\s*(\d+)\s*-\s*(?:бандлар|моддалар)/))) return range(+m[1], +m[2]);
@@ -250,7 +252,7 @@ function buildTree(items, act, lang, problems) {
   function openAppendix(it) {
     appendixCount++;
     const m = it.text.match(/(\d+)\s*-\s*(?:сон\s+)?илова|(?:приложение|ПРИЛОЖЕНИЕ)\s*№?\s*(\d+)/i);
-    const num = m ? m[1] ?? m[2] : String(appendixCount);
+    const num = m ? m[1] ?? m[2] : null; // «ИЛОВА» без номера — основное приложение (Правила, Положение)
     const node = { id: uniqueId(`a${appendixCount}`), type: 'appendix', num, label: it.text, title: '', lexId: it.lexId, children: [] };
     tree.push(node);
     container = { id: node.id, children: node.children, node };
@@ -260,7 +262,8 @@ function buildTree(items, act, lang, problems) {
   }
 
   function addBlock(it) {
-    const kind = BLOCK_KIND[it.cls] ?? 'p';
+    // Таблица внутри обычного абзаца — тоже таблица (иначе её нельзя прокрутить внутри блока).
+    const kind = /<table/.test(it.html) ? 'table' : BLOCK_KIND[it.cls] ?? 'p';
     if (!it.html) return null;
     const block = { lexId: it.lexId, k: kind, html: it.html };
     if (pendingComment) {
@@ -316,7 +319,7 @@ function buildTree(items, act, lang, problems) {
         continue;
       }
       if (!it.text || !lastBlock) continue;
-      const note = it.text.replace(/^Комментарий LexUz\s*|^LexUz шарҳи\s*/, '');
+      const note = it.text.replace(/^Комментарий LexUz\s*|^LexUz шарҳи\s*/i, '');
       if (/^Неофициальный перевод/.test(note)) {
         lastBlock.unofficial = true;
         (lastBlock.changes ??= []).push(note);
@@ -379,7 +382,8 @@ function buildTree(items, act, lang, problems) {
       }
       const h = classifyHeading(it.text);
       // В КоАО «Общая/Особенная часть» стоит внутри раздела, в ГК — над разделами.
-      const level = h.type === 'codePart' && stack.some((n) => n.type === 'section') ? 1.5 : LEVEL[h.type];
+      const sec = [...stack].reverse().find((n) => n.type === 'section');
+      const level = h.type === 'codePart' && sec && sec.children.every((c) => c.type === 'codePart') ? 1.5 : LEVEL[h.type];
       while (stack.length && levels.get(stack.at(-1)) >= level) stack.pop();
       const parentId = stack.length ? stack.at(-1).id : container.id;
       const local = h.type === 'heading' ? `h${(stack.length ? stack.at(-1).children : container.children).filter((n) => n.type === 'heading').length + 1}` : { codePart: 'cp', section: 's', subsection: 'ss', chapter: 'ch', paragraph: 'p' }[h.type] + idNum(h.num);
@@ -429,6 +433,15 @@ function buildTree(items, act, lang, problems) {
       }
     }
     addBlock(it);
+  }
+  // Приложение-форма без названия: берём первую строку по центру («ЖУРНАЛ учета…», «ЗАЯВКА…»).
+  for (const n of tree) {
+    if (n.type !== 'appendix' || n.title) continue;
+    const pre = n.children.find((c) => c.type === 'preamble');
+    const c = pre?.blocks?.find((b) => b.k === 'center' && plain(b.html).length > 3);
+    const bold = pre?.blocks?.[0]?.html.match(/<b>([^<]{4,140})<\/b>/);
+    if (c) n.title = plain(c.html).slice(0, 140);
+    else if (bold) n.title = plain(bold[1]);
   }
   return { mode, head, tree };
 }
